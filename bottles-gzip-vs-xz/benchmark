@@ -1,0 +1,151 @@
+#!/usr/bin/env zsh
+
+print_error () print -R $'\e[31m'"Error: $*"$'\e[0m' >&2
+print_progress () print -R $'\e[32m'"$*"$'\e[0m' >&2
+
+setopt errexit
+formulae=(
+    openssl pkg-config sqlite libpng node readline freetype glib git python
+    pcre fontconfig gdbm gettext xz imagemagick libtiff libyaml libtool cmake
+    youtube-dl autoconf libksba jpeg python3 mysql wget pango vim go
+)
+# Edit this variable to use a different directory or volume
+basetmpdir=/tmp
+tmpdir=$(/usr/bin/mktemp -d $basetmpdir/brew-bottle-benchmark-XXXXXXX)
+trap 'rm -rf $tmpdir' EXIT INT TERM
+
+# Usage:
+#     benchmark_tar <src> <method> <times>
+#
+# <src> should be an absolute path.
+# <method> should either be gzip or xz.
+#
+# Output format:
+#     <user+sys average> <real average>
+benchmark_tar () {
+    src=$1
+    method=$2
+    times=$3
+    [[ -e $src ]] || {
+        print_error "$src does not exist"
+        exit 1
+    }
+    case $method in
+        gzip) compression_flag=z;;
+        xz) compression_flag=J;;
+        *) print_error "unknown method $method"; exit 1;;
+    esac
+    [[ $times == <-> && $times != 0 ]] || {
+        print_error "$2 is not a positive integer"
+        exit 1
+    }
+    (
+        TIMEFMT='%U %S %E'
+        time (
+            for count in {1..$times}; do
+                printf 'Run %d/%d...\r' $count $times >/dev/tty
+                dest=$(/usr/bin/mktemp $tmpdir/XXXXXXX)
+                /usr/bin/tar -C $src:h -c${compression_flag}f $dest $src:t 2>/dev/null
+                rm -f $dest
+            done
+            print >/dev/tty
+        )
+    ) |& sed 's/s//g' | read user sys real
+    printf '%.3f %.3f\n' $(( (user + sys) / times )) $(( real / times ))
+}
+
+# Usage:
+#     benchmark_untar <archive> <times>
+#
+# <archive> should be an absolute path.
+#
+# Output format:
+#     <user+sys average> <real average>
+benchmark_untar () {
+    archive=$1
+    times=$2
+    [[ -f $archive ]] || {
+        print_error "$archive does not exist"
+        exit 1
+    }
+    [[ $times == <-> && $times != 0 ]] || {
+        print_error "$2 is not a positive integer"
+        exit 1
+    }
+    (
+        TIMEFMT='%U %S %E'
+        time (
+            for count in {1..$times}; do
+                printf 'Run %d/%d...\r' $count $times >/dev/tty
+                dest=$(/usr/bin/mktemp -d $tmpdir/XXXXXXX)
+                /usr/bin/tar -C $dest -xf $archive 2>/dev/null
+            done
+            print >/dev/tty
+        )
+    ) |& sed 's/s//g' | read user sys real
+    # Remove all subdirectories of $tmpdir to save space
+    rm -rf $tmpdir/*(/)
+    printf '%.3f %.3f\n' $(( (user + sys) / times )) $(( real / times ))
+}
+
+for formula in $formulae; do
+    print_progress "$formula: fetching bottle..."
+    bottle=$(brew fetch --verbose $formula | /usr/bin/sed -nE 's/^(Downloaded to|Already downloaded): (.*)/\2/p')
+
+    print_progress "$formula: decompressing bottle..."
+    tar -C $tmpdir -xf $bottle
+    unarchived_dir=$tmpdir/$formula
+    targz=$tmpdir/$formula.tar.gz
+    tarxz=$tmpdir/$formula.tar.xz
+
+    print_progress "$formula: creating .tar.gz and .tar.xz bottles..."
+    tar -C $tmpdir -czf $targz $formula
+    targz_size=$(wc -c <$targz)
+    printf '.tar.gz size: %d bytes\n' $targz_size >&2
+    tar -C $tmpdir -cJf $tarxz $formula
+    tarxz_size=$(wc -c <$tarxz)
+    printf '.tar.xz size: %d bytes\n' $tarxz_size >&2
+    size_percentage=$(( tarxz_size * 100.0 / targz_size ))
+    printf 'size percentage: %.1f%%\n' $size_percentage >&2
+
+    print_progress "benchmarking $formula: tar into .tar.gz"
+    benchmark_tar $unarchived_dir gzip 5 | read targz_tar_usersys targz_tar_real
+    printf 'average time: %.3f seconds\n' $targz_tar_usersys >&2
+
+    print_progress "benchmarking $formula: tar into .tar.xz"
+    benchmark_tar $unarchived_dir xz 5 | read tarxz_tar_usersys tarxz_tar_real
+    printf 'average time: %.3f seconds\n' $tarxz_tar_usersys >&2
+
+    tar_time_percentage=$(( tarxz_tar_usersys * 100.0 / targz_tar_usersys ))
+
+    rm -rf $unarchived_dir
+
+    print_progress "benchmarking $formula: untar from .tar.gz"
+    benchmark_untar $targz 30 | read targz_untar_usersys targz_untar_real
+    printf 'average time: %.3f seconds\n' $targz_untar_usersys >&2
+
+    print_progress "benchmarking $formula: untar from .tar.xz"
+    benchmark_untar $tarxz 30 | read tarxz_untar_usersys tarxz_untar_real
+    printf 'average time: %.3f seconds\n' $tarxz_untar_usersys >&2
+
+    untar_time_percentage=$(( tarxz_untar_usersys * 100.0 / targz_untar_usersys ))
+
+    print_progress "$formula: summary:"
+    printf '%s\n' >&2 \
+           ' 1 - formula' ' 2 - .tar.gz size' ' 3 - .tar.xz size' \
+           ' 4 - size percentage (.tar.xz / .tar.gz)' \
+           ' 5 - .tar.gz tar user+sys' ' 6 - .tar.gz tar real' \
+           ' 7 - .tar.gz tar user+sys' ' 8 - .tar.gz tar real' \
+           ' 9 - tar time percentage (user+sys, .tar.xz / .tar.gz)' \
+           '10 - .tar.gz untar user+sys' '11 - .tar.gz untar real' \
+           '12 - .tar.gz untar user+sys' '13 - .tar.gz untar real' \
+           '14 - untar time percentage (user+sys, .tar.xz / .tar.gz)'
+    printf '%s\t%d\t%d\t%.1f%%\t%.3f\t%.3f\t%.3f\t%.3f\t%.1f%%\t%.3f\t%.3f\t%.3f\t%.3f\t%.1f%%\n' \
+           $formula $targz_size $tarxz_size $size_percentage \
+           $targz_tar_usersys $targz_tar_real \
+           $tarxz_tar_usersys $tarxz_tar_real \
+           $tar_time_percentage \
+           $targz_untar_usersys $targz_untar_real \
+           $tarxz_untar_usersys $tarxz_untar_real \
+           $untar_time_percentage
+done
