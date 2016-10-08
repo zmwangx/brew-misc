@@ -1,0 +1,17 @@
+#!/usr/bin/env zsh
+
+core_formula_dir="$(brew --repository homebrew/core)/Formula"
+
+# need_bottle <formula_identifier>
+need_bottle () {
+    formula=$1
+    [[ $formula == */* ]] && return 1 # Non-core
+    formula_file=$core_formula_dir/$formula.rb
+    ! grep -q 'bottle :unneeded' $formula_file && ! grep -q 'sha256 ".*" => :sierra' $formula_file
+}
+
+for f in $(brew deps --include-build $1); do
+    need_bottle $f && print $f
+done
+
+:

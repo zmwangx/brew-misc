@@ -1,0 +1,33 @@
+#!/usr/bin/env zsh
+
+# Order formulae according to a leaderboard.
+#
+# Usage:
+#   ./order <unordered_list> <leaderboard> <ordered_list> <offchart>
+#
+# <unordered_list> and <leaderboard> are input file names;
+# <ordered_list> and <offchart> are output file names.
+#
+# <ordered_list> is ordered according to <leaderboard>;
+# Anything in <unordered_list> but not <leaderboard> will be dumped to
+# <offchart> in alphabetical order.
+
+unordered_list=$1
+leaderboard=$2
+ordered_list=$3
+offchart=$4
+
+[[ -n $unordered_list && -n $leaderboard && -n $ordered_list && -n $offchart ]] || {
+    print 'Usage: ./order <unordered_list> <leaderboard> <ordered_list> <offchart>' >&2
+    exit 1
+}
+
+exec <$leaderboard
+exec >$ordered_list
+while read -r entry; do
+    grep -q "^$entry$" $unordered_list && print $entry
+done
+exec </dev/null
+exec >/dev/null
+
+comm -23 =(sort $unordered_list) =(sort $ordered_list) >$offchart

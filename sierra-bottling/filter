@@ -1,0 +1,13 @@
+#!/usr/bin/env zsh
+
+# Takes the output of
+#
+#   ./read-table --include-hits <table>
+
+typeset -A seen
+while read -r line; do
+    formula=$line[(w)2]
+    ( [[ $formula == */* ]] || (( seen[$formula] )) ) && continue
+    print $formula
+    seen[$formula]=1
+done

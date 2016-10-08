@@ -1,0 +1,5000 @@
+355095 openssl
+243937 pkg-config
+203989 sqlite
+200785 libpng
+169372 node
+156610 readline
+153673 freetype
+114341 glib
+112008 git
+109269 python
+105252 pcre
+104415 fontconfig
+102946 gdbm
+99608 gettext
+98204 xz
+97275 imagemagick
+95020 libtiff
+93733 libyaml
+92564 libtool
+91123 cmake
+76788 youtube-dl
+66893 autoconf
+66734 libksba
+66128 jpeg
+65791 python3
+64843 mysql
+63803 wget
+63373 pango
+61993 vim
+61293 go
+58069 gmp
+55076 libgpg-error
+53408 harfbuzz
+53177 icu4c
+52902 x264
+50866 postgresql
+48714 libffi
+48647 automake
+47115 ruby
+44642 mpfr
+43842 gnutls
+42819 gcc
+41654 awscli
+41647 ruby-build
+41262 libxml2
+40644 gobject-introspection
+39417 pixman
+39333 boost
+38131 cairo
+38077 mongodb
+34885 gdk-pixbuf
+34296 ffmpeg
+32991 redis
+32455 curl
+31596 oniguruma
+30811 homebrew/php/php70
+29071 erlang
+28174 isl
+27891 wxmac
+27520 pyenv
+27330 mercurial
+26473 protobuf
+26274 libgcrypt
+26045 gradle
+25712 watchman
+24211 libevent
+24183 jq
+23751 tmux
+23579 unixodbc
+23465 libtasn1
+22518 xvid
+22347 bash
+22291 lua
+22256 lame
+22241 gd
+21789 librsvg
+21757 nvm
+21538 libmpc
+21510 rbenv
+20756 libusb
+20724 libcroco
+20690 macvim
+20098 graphviz
+19674 webp
+19169 little-cms2
+19154 watch
+18865 libpng --universal
+18840 maven
+18294 fontconfig --universal
+18135 openssl --universal
+17866 perl
+17636 makedepend
+17142 homebrew/php/php56
+17109 doxygen
+17039 docker
+17009 nettle
+16987 gtk+
+16417 hub
+16323 qt5
+15980 coreutils
+15559 heroku
+15371 emacs
+15317 freetype --universal
+15093 gnupg2
+15013 atk
+14812 unrar
+14803 the_silver_searcher
+14525 libassuan
+14283 gnupg
+14246 graphicsmagick
+14052 gpg-agent
+14028 zsh
+13988 tbb
+13949 gtk+3
+13931 htop
+13832 libusb-compat
+13726 dirmngr
+13682 tree
+13357 carthage
+13298 homebrew/science/hdf5
+13268 homebrew/science/opencv
+13215 mobile-shell
+13005 nmap
+12977 eigen
+12687 pinentry
+12655 nginx
+12630 gd --universal
+12506 homebrew/python/numpy
+12379 zsh-completions
+12199 p7zip
+12185 ansible
+12074 pth
+12025 docker-machine
+11952 sane-backends --universal
+11880 flow
+11669 fftw
+11606 qt
+11563 elixir
+11466 libogg
+11352 libvorbis
+11274 gawk
+11253 libvpx
+11169 apr
+11003 net-snmp
+10896 homebrew/php/composer
+10799 bash-completion
+10588 ssh-copy-id
+10580 mono
+10519 apr-util
+10362 elasticsearch
+10114 sbt
+10026 ant
+9977 yasm
+9755 tig
+9498 terraform
+9370 pcre2
+9364 libssh2
+9290 libtiff --universal
+9287 openjpeg
+9213 cscope
+9013 gsl
+8998 texi2html
+8777 leiningen
+8737 libtool --universal
+8651 libxslt
+8646 pyenv-virtualenv
+8621 mariadb
+8588 libass
+8500 cask
+8431 openexr
+8426 ilmbase
+8409 texinfo
+8348 git-lfs
+8194 gnuplot
+8175 aria2
+8153 hicolor-icon-theme
+8032 ghostscript
+7947 opus
+7809 emacs --with-cocoa
+7808 xz --universal
+7746 gdb
+7700 zeromq
+7655 phantomjs
+7612 swig
+7559 gsettings-desktop-schemas
+7517 chromedriver
+7463 neovim/neovim/neovim
+7389 haskell-stack
+7349 android-platform-tools
+7258 autojump
+7210 rust
+7045 homebrew/science/octave
+7032 gnu-sed
+7003 little-cms2 --universal
+6949 vim --with-lua
+6923 lzlib
+6912 bdw-gc
+6793 fzf
+6696 homebrew/science/r
+6554 android-sdk
+6520 webp --universal
+6497 libtasn1 --universal
+6496 pandoc
+6477 homebrew/php/php70-mcrypt
+6425 httpie
+6422 sphinx-doc
+6355 augeas
+6331 scala
+6326 macvim --with-override-system-vim
+6311 scons
+6264 vim --with-override-system-vi
+6210 subversion
+6122 c-ares
+6002 sdl2
+5956 highlight
+5940 wine
+5936 cgal
+5935 libgphoto2 --universal
+5914 szip
+5913 fish
+5822 reattach-to-user-namespace
+5812 poppler
+5811 faac
+5761 homebrew/science/arpack
+5727 py2cairo
+5682 xctool
+5572 fdk-aac
+5520 sdl
+5494 mtr
+5489 dnsmasq
+5486 tomcat
+5435 swiftlint
+5434 pygobject
+5434 rabbitmq
+5406 mcrypt
+5404 node --with-full-icu
+5374 giflib
+5373 packer
+5364 jenkins
+5325 fribidi
+5317 gdal
+5314 libusb --universal
+5293 qemu
+5288 memcached
+5232 binutils
+5231 jpeg --universal
+5181 homebrew/fuse/ntfs-3g
+5160 libepoxy
+5120 mhash
+5118 libusb-compat --universal
+5073 wireshark
+5042 boost-python
+5034 llvm
+4970 irssi
+4942 libmagic
+4939 valgrind
+4934 staticfloat/juliatranslated/mbedtls
+4878 homebrew/php/php55
+4877 midnight-commander
+4873 libsodium
+4863 geos
+4857 pypy
+4852 flac
+4840 json-c
+4814 ocaml
+4802 ctags
+4787 libspatialite
+4744 ossp-uuid
+4727 libicns --universal
+4712 dbus
+4680 homebrew/php/php71
+4678 jasper --universal
+4601 parallel
+4589 s-lang
+4589 sfcgal
+4571 kubernetes-cli
+4557 usbmuxd
+4552 bison
+4537 homebrew/apache/httpd24
+4537 postgis
+4520 orc
+4516 glew
+4492 libzip
+4457 ghc
+4442 node --without-npm
+4430 homebrew/php/php56-mcrypt
+4427 hadoop
+4427 libimobiledevice
+4425 jsoncpp
+4402 sip
+4372 proj
+4359 open-mpi
+4292 luajit
+4262 liblwgeom
+4247 pngcrush
+4244 snappy
+4224 ccache
+4178 fswatch
+4178 gnu-tar
+4176 dos2unix
+4167 libressl
+4148 glide
+4138 x265
+4107 homebrew/versions/mysql56
+4106 tor
+4101 homebrew/dupes/ncurses
+4078 freexl
+4066 homebrew/dupes/zlib
+4022 ninja
+4018 homebrew/versions/gcc49
+4017 guile
+3984 libgeotiff
+3978 homebrew/versions/gmp4
+3939 sip --with-python3
+3924 geoip
+3924 libav --with-libvorbis --with-libvpx --with-freetype --with-fdk-aac --with-opus
+3848 homebrew/versions/mpfr2
+3841 libplist
+3831 docker-compose
+3812 homebrew/versions/libmpc08
+3805 ack
+3726 homebrew/science/opencv3
+3702 homebrew/versions/isl011
+3694 homebrew/versions/cloog018
+3684 aws-elasticbeanstalk
+3660 gnome-icon-theme
+3658 bazel
+3608 homebrew/versions/node4-lts
+3603 pygobject3
+3594 socat
+3592 gperftools
+3585 thefuck
+3579 clang-format
+3569 homebrew/php/php70-intl
+3550 sbcl
+3521 leveldb
+3517 cowsay
+3504 syncthing
+3397 ocamlbuild
+3362 pyqt
+3285 lftp
+3263 pygtk
+3236 gtksourceview3
+3236 leptonica
+3177 nghttp2
+3121 fltk
+3116 git-flow
+3110 popt
+3097 pyqt5
+3077 homebrew/science/suite-sparse
+3069 exiftool
+3052 pangomm
+3046 gnu-getopt
+3031 homebrew/science/metis
+3013 crystal-lang
+3006 rethinkdb
+2978 mas
+2954 gringo
+2942 homebrew/science/transfig
+2939 camlp4
+2927 homebrew/science/glpk
+2896 curl --with-openssl
+2886 ideviceinstaller
+2875 cloc
+2857 gflags
+2857 sqlite --universal
+2851 tesseract
+2834 homebrew/php/php70-opcache
+2821 nspr
+2819 mpv
+2811 diff-so-fancy
+2800 media-info
+2786 homebrew/dupes/openssh
+2761 cabal-install
+2733 homebrew/dupes/screen
+2732 git-flow-avh
+2723 gtkmm
+2720 ncdu
+2699 dialog
+2677 groovy
+2676 openvpn
+2649 rlwrap
+2640 intltool
+2616 homebrew/science/qrupdate
+2615 homebrew/fuse/sshfs
+2607 homebrew/science/veclibfort
+2604 lzo
+2581 gcc --without-multilib
+2575 jemalloc
+2573 theora
+2514 gl2ps
+2510 mad
+2498 homebrew/php/php70-xdebug
+2493 findutils
+2479 cocoapods
+2463 ios-webkit-debug-proxy
+2457 keybase
+2455 homebrew/science/qhull
+2455 zsh-syntax-highlighting
+2452 lcov
+2448 ethereum/ethereum/ethereum
+2440 pv
+2420 sdl_image
+2412 putty
+2395 homebrew/php/php56-xdebug
+2387 homebrew/versions/glfw3
+2378 homebrew/versions/qt55
+2373 qscintilla2
+2360 hugo
+2352 cctools
+2345 libidn
+2340 mkvtoolnix
+2310 homebrew/php/php56-intl
+2294 influxdb
+2280 lynx
+2278 apache-spark
+2275 boot2docker
+2274 opam
+2261 siege
+2251 exercism
+2249 sqlmap
+2244 freetds
+2236 htop-osx
+2210 sdl2_image
+2207 glog
+2205 certbot
+2201 aspell
+2195 v8
+2187 s3cmd
+2182 homebrew/dupes/grep
+2157 nasm
+2139 rename
+2134 cloog
+2133 yara
+2117 portaudio
+2112 aspcud
+2110 winetricks
+2106 logstash
+2103 docutils
+2100 mutt
+2099 homebrew/dupes/nano
+2096 jenv
+2089 pwgen
+2071 spidermonkey
+2061 aircrack-ng
+2059 pivotal/tap/springboot
+2055 clasp
+2039 bfg
+2022 berkeley-db
+2021 cabextract
+2008 flex
+2005 pstoedit
+2003 android-ndk
+1990 gtk-mac-integration
+1983 d12frosted/emacs-plus/emacs-plus --with-cocoa --with-spacemacs-icon --with-gnutls --with-imagemagick
+1982 libmemcached
+1981 libsndfile
+1974 moreutils
+1973 imagemagick --with-webp
+1971 protobuf-c
+1970 plotutils
+1966 md5sha1sum
+1957 cryptopp
+1956 lmdb
+1951 vala
+1948 homebrew/completions/brew-cask-completion
+1929 libxml2 --with-python
+1924 consul
+1923 czmq
+1909 fontforge
+1906 homebrew/completions/vagrant-completion
+1900 glm
+1897 libgit2
+1895 epstool
+1883 etcd
+1877 homebrew/versions/gcc48
+1876 asciidoc
+1876 gstreamer
+1876 neo4j
+1868 gnu-sed --with-default-names
+1867 homebrew/dupes/rsync
+1867 zookeeper
+1861 homebrew/versions/bash-completion2
+1840 mplayer
+1837 staticfloat/juliadeps/libgfortran
+1833 mpv --with-bundle
+1816 cppcheck
+1807 peco
+1796 cassandra
+1780 homebrew/dupes/libiconv
+1775 staticfloat/julia/arpack-julia
+1770 neovim/neovim/neovim --HEAD
+1765 shadowsocks-libev
+1745 homebrew/science/openblas
+1734 selenium-server-standalone
+1732 dpkg
+1724 cloudfoundry/tap/cf-cli
+1724 docbook
+1723 rtmpdump
+1720 libdvdcss
+1715 libmicrohttpd
+1714 libvirt
+1695 homebrew/php/phpunit
+1689 wireshark --with-qt5
+1687 shellcheck
+1679 sdl_ttf
+1675 gnuplot --with-x11
+1666 glibmm
+1660 kafka
+1658 jmeter
+1635 mosquitto
+1626 staticfloat/julia/openblas-julia
+1620 repo
+1617 curl --with-nghttp2
+1607 spdylay
+1592 homebrew/php/php56-opcache
+1589 sdl_mixer
+1588 homebrew/science/vtk
+1583 homebrew/fuse/encfs
+1579 ffmpeg --with-faac
+1575 openconnect
+1571 jansson
+1562 sdl2_ttf
+1561 homebrew/versions/llvm38
+1549 httpstat
+1547 homebrew/dupes/apple-gcc42
+1543 gnuplot --with-cairo --without-lua --with-wxmac --with-pdflib-lite --with-x11
+1543 staticfloat/julia/suite-sparse-julia
+1537 go-delve/delve/delve
+1535 homebrew/php/php54
+1531 mysql-connector-c
+1528 msgpack
+1527 sox
+1526 glib-networking
+1519 portmidi
+1509 libav
+1502 homebrew/dupes/tcl-tk
+1501 libelf
+1494 homebrew/versions/isl014
+1478 libsigc++
+1476 railwaycat/emacsmacport/emacs-mac
+1473 homebrew/php/php-cs-fixer
+1465 jasper
+1464 typesafe-activator
+1463 libgsf
+1463 macvim --with-lua
+1457 gpgme
+1453 homebrew/python/pillow
+1451 fortune
+1432 pass
+1428 homebrew/python/scipy
+1423 pstree
+1423 swagger-codegen
+1423 yajl
+1422 staticfloat/julia/llvm37-julia
+1420 homebrew/gui/meld
+1418 iperf
+1404 homebrew/php/php-code-sniffer
+1402 homebrew/versions/ppl011
+1394 lz4
+1390 libsoup
+1387 direnv
+1387 libbluray
+1386 nkf
+1385 homebrew/python/numpy --with-python3
+1375 staticfloat/juliatranslated/fontconfig
+1368 httrack
+1360 smartmontools
+1359 bash-git-prompt
+1356 libnet
+1356 speedtest_cli
+1347 swiftgen
+1342 homebrew/php/php70 --with-apache
+1340 homebrew/science/netcdf
+1338 homebrew/php/phpmyadmin
+1337 sl
+1334 libev
+1331 node-build
+1331 terminal-notifier
+1323 md5deep
+1321 apktool
+1319 expat
+1312 homebrew/php/php70-pdo-pgsql
+1310 macvim --with-override-system-vim --with-lua --with-luajit
+1306 wxpython
+1297 newt
+1289 jpegoptim
+1288 iperf3
+1287 codeclimate/formulae/codeclimate
+1285 libsamplerate
+1282 homebrew/php/igbinary
+1266 homebrew/python/matplotlib
+1263 thrift
+1259 git-annex
+1258 z
+1256 antigen
+1255 ffmpeg --with-libass --with-ffplay --with-fdk-aac --with-x265 --with-freetype --with-libvorbis --with-libvpx --with-opus
+1249 libdnet
+1246 ruby-install
+1228 sqlite --with-functions
+1227 gifsicle
+1227 netcat
+1219 axel
+1210 railwaycat/emacsmacport/emacs-mac --with-spacemacs-icon
+1207 shared-mime-info
+1202 colordiff
+1197 homebrew/php/php55-mcrypt
+1190 wget --with-libressl
+1188 iso-codes
+1181 links
+1178 homebrew/php/php70 --without-apache
+1174 re2c
+1172 youtube-dl --with-rtmpdump
+1164 stunnel
+1158 faad2
+1156 jruby
+1149 clisp
+1146 enchant
+1142 activemq
+1142 proxychains-ng
+1142 qwt
+1138 homebrew/completions/docker-completion
+1138 pidcat
+1137 jeffreywildman/virt-manager/virt-manager
+1132 e2fsprogs
+1125 casperjs
+1125 imagemagick --with-x11
+1122 homebrew/php/php56-igbinary
+1117 mpich
+1114 git-extras
+1111 autoenv
+1110 homebrew/versions/postgresql94
+1108 gource
+1105 staticfloat/juliatranslated/libpng
+1103 opusfile
+1098 offlineimap
+1091 libssh
+1091 minicom
+1087 enca
+1086 libwebsockets
+1084 hydra
+1082 rocksdb
+1080 kibana
+1080 unison
+1077 dart-lang/dart/dart --with-content-shell --with-dartium
+1075 miniupnpc
+1074 vim --with-python3
+1071 boost --c++11
+1071 homebrew/versions/node5
+1070 macvim --with-override-system-vim --with-lua
+1068 libebml
+1067 libpeas
+1060 libmatroska
+1052 libjson-rpc-cpp
+1050 optipng
+1049 swi-prolog
+1045 allegro
+1040 homebrew/php/php56 --with-apache
+1039 josegonzalez/php/php70
+1039 physfs
+1030 facebook/fb/buck
+1030 staticfloat/juliatranslated/freetype
+1022 little-cms
+1020 mitmproxy
+1020 vitorgalvao/tiny-scripts/cask-repair
+1019 homebrew/php/php56-redis
+1017 gnuplot --with-aquaterm
+1012 homebrew/dupes/diffutils
+1007 vault
+1006 tidy-html5
+1005 docbook-xsl
+1003 zimg
+1002 gtk
+1002 rebar
+1002 sonar-runner
+996 wrk
+994 gnuplot --with-qt5
+992 homebrew/versions/llvm37
+992 libunistring
+991 bar
+990 iftop
+989 homebrew/versions/elasticsearch17
+977 nodebrew
+977 privoxy
+976 homebrew/gui/inkscape
+974 grafana
+973 cairomm
+972 asciinema
+972 dart-lang/dart/dart
+971 pyside
+968 homebrew/versions/gcc5
+967 homebrew/dupes/grep --with-default-names
+963 homebrew/boneyard/lftp
+962 chisel
+962 pebble/pebble-sdk/pebble-sdk
+959 rpm
+957 lua51
+955 koekeishiya/kwm/kwm
+947 bazaar
+945 archey
+942 rbenv-gemset
+942 tokyo-cabinet
+941 libao
+937 azure-cli
+936 homebrew/versions/gcc6
+933 docker-machine-driver-xhyve
+933 libyaml --universal
+930 grails
+924 figlet
+923 couchdb
+922 mbedtls
+921 w3m
+919 speex
+916 chruby
+915 staticfloat/juliatranslated/ipopt
+912 homebrew/science/flann
+910 sphinx
+908 sshuttle
+906 mackup
+901 smpeg
+895 homebrew/versions/openssl101
+892 screenfetch
+890 aspnet/dnx/dnvm
+890 osx-cross/avr/avr-gcc
+890 pdflib-lite
+889 homebrew/versions/llvm36
+887 gtk 3
+887 tmux --HEAD
+887 trash
+884 homebrew/php/php56 --without-apache
+884 the_platinum_searcher
+883 hhvm/hhvm/hhvm
+882 pyenv-virtualenvwrapper
+881 homebrew/versions/mysql55
+878 shiboken
+875 mycli
+875 staticfloat/juliatranslated/hdf5
+873 uncrustify
+870 curl --with-libssh2
+862 gst-plugins-base
+858 homebrew/science/opencv3 --with-python3
+858 josegonzalez/php/php56
+857 kotlin
+856 openal-soft
+851 libarchive
+850 dynamodb-local
+844 aws-shell
+842 mpg123
+839 homebrew/php/php71-mcrypt
+837 global
+834 findutils --with-default-names
+832 px4/px4/gcc-arm-none-eabi
+829 homebrew/science/blast
+828 dfu-util
+828 gst-plugins-good
+828 imap-uw
+828 rhino
+824 atkmm
+824 pgcli
+823 libsass
+823 ucl
+820 beeftornado/rmtree/brew-rmtree
+815 csshx
+815 libxmlsec1
+812 argon/mas/mas
+811 jpeg-turbo
+808 libstrophe
+801 homebrew/php/php55-xdebug
+799 fping
+797 gedit
+795 zplug
+792 homebrew/php/php56-imagick
+792 pigz
+790 lrzsz
+789 staticfloat/juliatranslated/gmp
+786 solr
+783 staticfloat/juliatranslated/glib
+782 homebrew/php/drush
+781 elm
+780 homebrew/dupes/make
+780 sourcekitten
+779 homebrew/php/php53
+777 ponyc
+776 cmatrix
+776 you-get
+775 homebrew/php/php70-mongodb
+775 spark
+771 staticfloat/juliatranslated/pango
+769 rcmdnk/file/brew-file
+766 lighttpd
+765 libftdi
+763 check
+761 homebrew/x11/openmotif
+761 taglib
+761 xcproj
+760 mkvtoolnix --with-qt5
+757 gnuradio
+757 hbase
+756 homebrew/versions/ruby22
+756 vim --with-override-system-vi --with-lua
+755 upx
+753 fleetctl
+753 homebrew/fuse/ext4fuse
+752 tmate
+751 vim --HEAD
+747 gtk-vnc
+747 infer
+746 jetty
+743 tinyxml
+741 ngrep
+736 libconfig
+735 argp-standalone
+735 passenger
+733 homebrew/versions/v8-315
+730 homebrew/php/php70-imagick
+726 vim --with-lua --with-luajit
+724 homebrew/versions/node012
+721 pngquant
+720 planck
+719 protobuf --devel
+718 multimarkdown
+718 saltstack
+718 unar
+716 hive
+716 staticfloat/juliatranslated/szip
+715 amazon-ecs-cli
+715 homebrew/versions/tomcat7
+711 fcgi
+711 gnu-tar --with-default-names
+705 argtable
+705 caskroom/cask/brew-cask
+705 homebrew/php/php56-memcached
+705 sane-backends
+703 ammonite-repl
+703 kylef/formulae/swiftenv
+703 spatialindex
+702 jack
+702 xerces-c
+698 byobu
+698 homebrew/php/php70-redis
+696 homebrew/php/php70-igbinary --HEAD
+691 brew-gem
+690 homebrew/dupes/tcl-tk --with-threads --with-x11
+690 josegonzalez/php/composer
+688 apr --universal
+687 freeimage
+684 staticfloat/juliatranslated/pkg-config
+680 git --with-brewed-openssl --with-brewed-curl
+678 grc
+677 homebrew/science/opencv3 --with-contrib
+676 homebrew/dupes/unzip
+675 googler
+673 libexif
+672 hidapi
+672 lzip
+671 autossh
+671 sdl2_mixer
+671 sfml
+669 zyedidia/micro/micro
+668 homebrew/php/php56-pdo-pgsql
+668 mesos
+667 httping
+665 staticfloat/juliatranslated/nettle
+664 ipcalc
+663 vapoursynth
+662 libimobiledevice --HEAD
+661 d12frosted/emacs-plus/emacs-plus
+661 smlnj
+660 darcs
+660 homebrew/dupes/gzip
+658 homebrew/apache/httpd22
+656 assimp
+656 homebrew/dupes/m4
+655 ideviceinstaller --HEAD
+654 openssl@1.1
+653 giter8
+652 dmd
+651 lastpass-cli --with-pinentry
+651 markdown
+649 ethereum/ethereum/cpp-ethereum
+649 homebrew/php/php70-memcached --HEAD
+648 hunspell
+642 wget --with-iri
+639 gpp
+639 no-more-secrets
+635 telegraf
+630 homebrew/php/php56-mongo
+630 homebrew/php/php56-phalcon
+629 libcaca
+628 staticfloat/julia/julia
+627 libsigsegv
+626 noti
+625 osgeo/osgeo4mac/pyspatialite
+624 source-highlight
+623 libgphoto2
+621 weechat
+620 antlr
+620 cppunit
+620 svtplay-dl
+616 fluid-synth
+615 homebrew/php/php70-apcu
+613 homebrew/nginx/nginx-full --with-rtmp-module
+613 tldr-pages/tldr/tldr
+612 gst-plugins-good --with-flac --with-libshout --with-speex --with-taglib
+612 lnav
+610 bradp/vv/vv
+609 raggi/ale/openssl-osx-ca
+608 staticfloat/juliatranslated/gettext
+608 transmission
+606 qca
+603 reaver
+602 cvs
+602 gx
+602 thoughtbot/formulae/rcm
+601 homebrew/python/scapy
+601 staticfloat/juliatranslated/libpgm
+598 homebrew/science/hwloc
+597 pinentry-mac
+596 avrdude
+596 multirust
+595 zenity
+594 homebrew/apache/ab
+593 tesseract --with-all-languages
+591 apr-util --universal
+591 godep
+590 subliminal
+588 homebrew/php/php56-memcache
+586 freetds --with-unixodbc
+585 osx-cross/avr/avr-libc
+585 qwtpolar
+584 homebrew/php/php56-apcu
+583 ffmpeg --with-libvpx
+582 homebrew/dupes/ed --with-default-names
+581 libatomic_ops
+580 jeffreywildman/virt-manager/libvirt-glib
+578 boost-build
+578 fdupes
+578 wakeonlan
+577 platformio
+576 josegonzalez/php/php55
+576 py3cairo
+575 arp-scan
+575 joe
+574 ranger
+573 osgeo/osgeo4mac/gdal-20
+572 libotr
+572 neko --HEAD
+571 imagemagick --with-ghostscript
+571 varnish
+570 python --with-tcl-tk
+570 xonsh
+568 sleuthkit
+566 libcouchbase
+566 spawn-fcgi
+563 plantuml
+563 ttfautohint
+561 homebrew/versions/qt52
+561 imagemagick --with-librsvg
+559 autogen
+556 haproxy
+556 libvo-aacenc
+556 neovim/neovim/neovim --HEAD --with-release
+555 binwalk
+555 gnu-which --with-default-names
+554 calc
+553 homebrew/nginx/rtmp-nginx-module
+553 jeffreywildman/virt-manager/spice-protocol
+551 ispell
+551 staticfloat/juliatranslated/icu4c
+550 osx-cross/avr/avr-binutils
+549 subversion --universal --with-java
+548 dockutil
+548 mp4v2
+548 netpbm
+548 vte3
+547 ffmpeg --with-ffplay
+547 rogual/neovim-dot-app/neovim-dot-app
+546 librdkafka
+545 dex2jar
+545 iproute2mac
+545 rrdtool
+542 grpc/grpc/google-protobuf
+541 protobuf-swift
+540 crosstool-ng
+540 libftdi0
+539 emacs --with-cocoa --with-gnutls
+538 mecab
+537 homebrew/versions/postgresql93
+536 gitlab-ci-multi-runner
+536 staticfloat/juliatranslated/pixman
+529 homebrew/apache/mod_wsgi
+529 mupdf-tools
+526 cpanminus
+524 git-cola
+524 hping
+523 wine --devel
+522 emacs --with-cocoa --with-gnutls --with-imagemagick
+522 staticfloat/juliatranslated/cairo
+518 bind
+518 staticfloat/juliatranslated/harfbuzz
+516 homebrew/versions/node010
+514 folly
+514 help2man
+514 staticfloat/juliatranslated/zeromq32
+513 pygobject3 --with-python3
+512 clamav
+512 osrf/simulation/ignition-transport
+512 thoughtbot/formulae/parity
+509 homebrew/science/vips
+509 pidof
+507 p11-kit
+504 gpsbabel
+504 homebrew/versions/mongodb26
+504 staticfloat/juliatranslated/pcre
+503 mopidy/mopidy/mopidy
+502 uhd
+500 mpc
+500 webkit2png
+498 goaccess
+498 homebrew/science/root
+497 libsoxr
+496 aalib
+494 ffmpeg --with-libvorbis --with-libvpx
+494 homebrew/nginx/openresty
+493 tcpreplay
+493 vim --with-luajit
+492 ecj
+491 ddrescue
+490 autoconf-archive
+490 vera++
+489 opencore-amr
+487 dash
+486 john
+486 libgit2-glib
+485 gcc --with-all-languages
+485 homebrew/php/php56-mongodb
+485 jlhonora/lsusb/lsusb
+485 ssdeep
+484 homebrew/science/root6
+483 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r
+483 libid3tag
+482 homebrew/binary/ngrok2
+481 gpac
+481 osquery
+480 arping
+480 gst-plugins-bad
+479 homebrew/binary/rar
+479 qcachegrind
+479 zstd
+477 fasd
+477 gnu-indent --with-default-names
+477 vnstat
+474 cli53
+473 pdf2htmlex
+472 libosinfo
+471 serf
+469 homebrew/php/php70 --with-postgresql
+468 sphinx --with-mysql --with-postgresql
+468 staticfloat/juliatranslated/gobject-introspection
+467 git-credential-manager
+461 elinks
+460 blackfireio/blackfire/blackfire-agent
+460 homebrew/php/wp-cli
+460 homebrew/versions/ruby21
+460 mpd
+460 percona-server
+460 yuicompressor
+459 frei0r
+458 afl-fuzz
+458 confuse
+458 homebrew/science/samtools
+456 fwup
+456 tcptraceroute
+455 ipfs
+455 python --universal
+453 libdvdread
+451 homebrew/php/php70-tidy
+449 homebrew/php/php56 --with-pear
+449 notmuch
+447 xmlstarlet
+445 staticfloat/juliatranslated/libffi
+444 gnuplot --with-aquaterm --with-x11
+444 n
+443 libwmf
+442 at-spi2-core
+442 gist
+440 pidgin
+439 homebrew/php/php70-gmp
+438 dinkypumpkin/get_iplayer/get_iplayer
+438 watchman --HEAD
+437 homebrew/science/scalapack
+436 m-cli
+435 babl
+435 caddy
+435 fabric
+435 jeffreywildman/virt-manager/spice-gtk
+435 pypy3
+434 homebrew/versions/gnupg21
+434 mecab-ipadic
+432 gnu-indent
+432 json-glib
+430 homebrew/versions/llvm35
+430 ncmpcpp
+430 rabbitmq-c
+429 astyle
+429 at-spi2-atk
+429 conan
+429 ettercap
+429 homebrew/science/cminpack
+429 id3lib
+429 vert.x
+428 poco
+427 dcraw
+426 gst-plugins-ugly
+426 prometheus
+425 idris
+424 task
+424 tcpflow
+423 codekitchen/dinghy/dinghy
+421 emacs --HEAD --with-cocoa --with-gnutls --with-imagemagick
+421 uber/alt/uber-developer
+420 micro
+419 oclint/formulae/oclint
+417 ffmpeg --with-fdk-aac
+417 homebrew/binary/perforce
+417 mit-scheme
+417 oath-toolkit
+416 duplicity
+416 gdbm --universal
+415 vegeta
+414 ethcore/ethcore/parity
+413 emscripten
+413 qt5 --with-dbus
+412 homebrew/php/php56 --with-postgresql
+411 gphoto2
+410 homebrew/games/mame
+410 liquibase
+410 vim --with-python3 --with-lua
+409 radare2
+408 augeas --HEAD
+407 jmeter --with-plugins
+406 homebrew/science/htslib
+406 libzzip
+405 cmus
+405 homebrew/versions/protobuf250
+403 homebrew/x11/grace
+403 libspiro
+402 asio
+402 homebrew/science/cfitsio
+402 rclone
+400 cheat
+399 homebrew/php/php71-xdebug
+399 osrf/simulation/simbody
+398 polipo
+396 yaml-cpp
+395 homebrew/apache/httpd24 --with-privileged-ports
+395 homebrew/php/php55-intl
+395 homebrew/php/php70 --with-pear
+395 supervisor
+393 osrf/simulation/gazebo7
+390 hashcat
+389 git-crypt
+389 homebrew/versions/bison27
+388 homebrew/python/pygame
+388 libfreenect
+387 algol68g
+387 homebrew/dupes/less
+387 stow
+386 hiredis
+386 libuv
+386 tailor
+385 beanstalkd
+385 osrf/simulation/ignition-math2
+384 minimal-racket
+384 openshift-cli
+383 node --with-openssl
+381 imagemagick --with-fftw --with-x11 --with-librsvg
+381 purescript
+381 schroedinger
+381 sphinx --with-mysql
+380 gsasl
+380 homebrew/php/brew-php-switcher
+380 wdiff --with-gettext
+379 homebrew/versions/rebar3
+377 berkeley-db4
+376 homebrew/php/php56 --with-homebrew-curl
+375 gnome-doc-utils
+375 homebrew/completions/docker-compose-completion
+375 homebrew/php/php71-intl
+375 nodenv
+374 bats
+374 flyway
+374 gnu-time
+374 sanemat/font/ricty
+373 homebrew/fuse/bindfs
+373 libmpdclient
+373 livestreamer
+373 zopfli
+372 homebrew/php/php55-redis
+372 homebrew/science/hdf5 --with-mpi
+372 ledger
+372 squid
+371 hh
+371 homebrew/versions/freetds091
+371 mogenerator
+366 homebrew/science/netcdf --with-fortran
+366 pssh
+365 homebrew/dupes/libpcap
+365 re2
+364 ios-sim
+364 minisign
+363 zsh-autosuggestions
+361 homebrew/versions/maven32
+359 ios-deploy
+358 homebrew/science/ceres-solver
+358 homebrew/versions/boost160
+358 pandoc-citeproc
+356 homebrew/php/php55-igbinary
+355 mpv --HEAD --with-bundle --with-libdvdread
+354 fcrackzip
+353 jbig2dec
+353 mapnik
+352 checkstyle
+352 h2o
+352 rbenv-binstubs
+350 jeffreywildman/virt-manager/usbredir
+350 ragel
+349 homebrew/x11/imake
+349 ldid
+348 homebrew/versions/subversion18
+348 ipmitool
+348 multitail
+346 gitg
+345 homebrew/x11/xpdf
+344 akka
+344 curl --with-libssh2 --with-openssl
+343 gimp
+343 qpdf
+342 djvulibre
+342 homebrew/science/armadillo
+342 pebble/pebble-sdk/pebble-qemu
+341 homebrew/php/php70-phalcon
+341 icarus-verilog
+341 shopify/shopify/shopify-libgraphqlparser
+340 cgdb
+338 puma/puma/puma-dev
+337 gron
+337 libcue
+336 homebrew/versions/protobuf260
+335 homebrew/php/php70-pdo-dblib
+335 libewf
+335 macvim --with-python3
+335 sassc
+334 fio
+334 shpotify
+333 foremost
+333 percona-toolkit
+333 pianobar
+333 tldr
+332 librsync
+331 homebrew/games/freeciv
+331 homebrew/versions/cassandra22
+330 legit
+330 ros/deps/gtest
+330 scrollkeeper
+327 homebrew/binary/kwm
+327 homebrew/science/bedtools
+327 keychain
+326 gst-python
+326 homebrew/science/vtk --with-qt
+325 msmtp
+325 storm
+324 slimerjs
+323 homebrew/science/openni2
+323 pam_yubico
+323 sdl_gfx
+323 testdisk
+322 arangodb
+322 homebrew/versions/ansible19
+322 icoutils
+322 kapacitor
+322 pangox-compat
+321 git --without-completions
+321 imagemagick --with-fontconfig
+319 git-review
+319 pyqt --with-python3
+318 ghq
+318 libsecret
+317 xhyve
+316 boot-clj
+316 ufraw
+314 staticfloat/juliatranslated/jpeg
+313 stormssh
+312 ccat
+311 gcovr
+311 homebrew/versions/gsl1
+311 rtmidi
+310 libicns
+309 gtkglext
+309 homebrew/dupes/expect
+308 gputils
+308 homebrew/php/phpmd
+307 atlassian/tap/atlassian-plugin-sdk
+307 rubberband
+306 cpp-netlib
+306 dvm
+306 gx-go
+305 dark-mode
+305 minio
+305 sonarqube
+304 docker-swarm
+304 homebrew/php/php71-opcache
+304 tinyxml2
+303 homebrew/science/pymol
+303 homebrew/x11/tiger-vnc
+303 zsh --without-etcdir
+302 collectd
+302 geckodriver
+302 homebrew/php/php56-tidy
+302 phrase/brewed/phraseapp
+302 wildfly-as
+301 consul --with-web-ui
+301 irrlicht
+301 itstool
+301 pngcheck
+301 rpm2cpio
+301 uber/alt/go-build --HEAD
+300 gst-plugins-bad --with-faad2 --with-libmms --with-opus
+299 docker-cloud
+299 homebrew/apache/httpd22 --with-mpm-event
+299 homebrew/php/php70 --with-homebrew-curl
+299 tcptrace
+298 bullet --with-shared --with-double-precision
+298 graphviz --with-app
+298 imagesnap
+298 monit
+298 rtv
+298 sysdig
+297 homebrew/versions/phantomjs192
+297 josegonzalez/php/php54
+297 node --with-openssl --with-full-icu
+297 vapor/tap/toolbox
+296 atomicparsley
+296 mozjpeg
+295 universal-ctags/universal-ctags/universal-ctags --HEAD
+295 xhyve --HEAD
+294 homebrew/php/php70-pcntl
+294 rbenv-default-gems
+293 dovecot
+293 homebrew/science/octave --HEAD --with-gui
+292 cntlm
+292 webkitgtk
+291 artifactory
+291 homebrew/nginx/nginx-full
+291 nss
+291 sloccount
+290 osrf/simulation/ogre
+289 google-sparsehash
+289 xmlto
+288 id3v2
+288 imagemagick --with-little-cms --with-little-cms2
+288 open-ocd
+287 ec2-api-tools
+287 nikto
+286 gdrive
+286 homebrew/php/php55-imagick
+286 homebrew/science/graph-tool
+286 macvim --with-lua --with-luajit
+286 unfs3
+284 corectl
+284 lastpass-cli --with-doc --with-pinentry
+283 homebrew/php/php55-opcache
+283 homebrew/science/parmetis
+282 brew-pip
+282 homebrew/php/php56 --with-homebrew-apxs
+282 homebrew/science/opencv3 --with-contrib --with-python3
+281 duti
+281 emacs --HEAD --with-cocoa
+281 homebrew/dupes/openldap
+281 homebrew/versions/glfw3 --without-shared-library
+281 rbenv-bundler
+280 dfu-programmer
+280 espeak
+280 homebrew/php/php56 --with-gmp
+280 homebrew/science/pcl
+280 homebrew/science/sundials
+279 fpp
+279 homebrew/versions/cloog-ppl015
+278 uwsgi
+277 docker-machine-nfs
+277 gtk-doc
+276 homebrew/php/php55 --with-gmp
+276 homebrew/science/vips --with-graphicsmagick --with-webp
+275 homebrew/binary/libspotify
+275 mawk
+274 ncftp
+274 opensc
+274 vim --with-override-system-vi --with-lua --with-luajit
+273 shtool
+273 xrootd
+271 global --with-ctags --with-pygments
+271 homebrew/science/r --with-openblas
+271 log4cxx
+271 macvim --with-override-system-vim --with-lua --with-luajit --with-python3
+271 staticfloat/juliatranslated/glpk452
+270 libtar
+269 aws-sdk-cpp
+269 gst-plugins-ugly --with-mad --with-libvorbis --with-lame --with-two-lame --with-libshout --with-flac --with-theora --with-libmms
+269 homebrew/science/superlu
+269 osrf/simulation/ignition-tools
+268 bmon
+268 homebrew/completions/django-completion
+268 kafkacat
+267 entr
+267 pig
+265 knock
+265 osgeo/osgeo4mac/qgis-214
+263 pre-commit
+263 protobuf --c++11
+263 staticfloat/juliatranslated/cbc
+262 homebrew/gui/hexchat
+262 mvnvm
+262 optimizers/cutest/archdefs
+262 optimizers/cutest/sifdecode
+261 ethereum/ethereum/cpp-ethereum --devel
+261 exiv2
+261 homebrew/php/php56 --without-ldap
+261 sslscan
+261 uber/alt/cerberus
+260 gtksourceview
+260 josegonzalez/php/php56-mcrypt
+260 nifi
+259 osrf/simulation/cppzmq
+259 srcclr/srcclr/srcclr
+258 homebrew/versions/gradle221
+258 vim --with-override-system-vi --with-python3
+257 optimizers/cutest/cutest
+257 postgresql --with-python
+256 homebrew/php/php71 --with-apache
+256 mtools
+256 ringojs
+255 homebrew/binary/perforce-server
+255 nginx --with-http2
+254 gettext --universal
+254 homebrew/completions/composer-completion
+253 homebrew/dupes/file-formula
+253 homebrew/php/terminus
+253 libpqxx
+253 optimizers/cutest/mastsif
+253 sleepwatcher
+252 python3 --with-tcl-tk
+252 vte
+251 doctl
+250 gitup
+250 hr
+249 homebrew/versions/gradle28
+248 gnu-smalltalk
+248 goffice
+248 gst-plugins-base --with-libogg --with-theora --with-libvorbis
+248 sdl_net
+248 xapian
+247 cairo --with-x11
+247 homebrew/dupes/lapack
+247 homebrew/php/php55 --with-apache
+247 homebrew/php/php55-apcu
+247 jsonpp
+247 lastpass-cli
+247 pow
+247 tre
+246 boost --with-icu4c
+246 homebrew/science/sratoolkit
+245 ethereum/ethereum/solidity
+245 pulseaudio
+245 wercker/wercker/wercker-cli
+244 capnp
+244 homebrew/php/php56-gmp
+244 icdiff
+244 osrf/simulation/sdformat4
+243 dnscrypt-proxy --with-plugins
+243 glib --universal
+243 jeffreywildman/virt-manager/virt-viewer
+242 appledoc
+241 crunch
+241 homebrew/php/php55-pdo-pgsql
+240 diff-pdf
+240 git-town
+240 qrencode
+240 toilet
+239 homebrew/php/php54-xdebug
+238 redpen
+237 fftw --with-fortran --with-mpi
+237 gearman
+237 gpm
+236 gst-libav
+236 libsvg
+235 boost-python --with-python3
+235 grip
+235 lbzip2
+235 nagios-plugins
+235 profanity
+235 samueljohn/python/numpy
+233 homebrew/versions/ansible20
+233 ntopng
+233 osgeo/osgeo4mac/qscintilla2-qt4
+233 samueljohn/python/scipy
+232 dependency-check
+232 double-conversion
+232 ffmpeg --with-libass --with-openssl --with-theora --with-libvorbis --with-libvpx
+232 flake8
+232 homebrew/science/opencv --with-java
+232 torsocks
+232 unbound
+231 homebrew/science/scotch
+231 rmtrash
+230 homebrew/gui/terminator
+230 homebrew/php/php70 --without-ldap
+230 homebrew/x11/freerdp
+230 mailhog
+230 pgbadger
+229 homebrew/php/php-version
+229 homebrew/php/php70 --with-thread-safety
+228 enscript
+228 homebrew/versions/gcc47
+227 homebrew/gui/gtkwave
+227 jython
+227 macvim-dev/macvim/macvim --HEAD
+227 mpssh
+227 pebble/pebble-sdk/pebble-toolchain
+226 grpc/grpc/google-protobuf --without-python
+226 most
+225 swift
+224 blueutil
+224 ivy
+223 hashpump
+222 bitrise
+222 corkscrew
+222 docker-clean
+222 zbar
+221 app-engine-python
+221 consul-template
+221 gcc --with-all-languages --without-multilib
+221 homebrew/science/oce
+221 mashape/kong/luarocks
+221 osm2pgsql
+221 pdsh
+221 wdiff
+221 ykpers
+220 homebrew/versions/mongodb30
+220 librsvg --with-gtk+3
+220 vim --HEAD --with-lua
+219 jhead
+219 libsvm
+219 neon
+218 staticfloat/juliatranslated/ecos
+217 homebrew/science/bowtie2
+217 nload
+216 homebrew/php/php70 --with-homebrew-apxs
+216 josegonzalez/php/php70-mcrypt
+215 homebrew/versions/elasticsearch23
+215 libvidstab
+215 ruby-build --HEAD
+214 bramstein/webfonttools/sfnt2woff
+214 homebrew/versions/maven31
+213 apg
+213 brightness
+213 homebrew/apache/httpd24 --with-mpm-event
+213 homebrew/php/php56-yaml
+213 nomad
+213 valgrind --HEAD
+212 camlp5
+212 dwarfutils
+212 fb-adb
+212 homebrew/php/php56-pdo-dblib
+212 instantclienttap/instantclient/instantclient-basic
+212 open-scene-graph
+212 squashfs
+212 talloc
+211 ansible-cmdb
+211 cadaver
+211 git-duet/tap/git-duet
+211 homebrew/x11/freeglut
+211 libyubikey
+211 lv
+211 nethogs
+210 ffmpeg --with-fdk-aac --with-faac
+210 homebrew/science/igraph
+210 mailutils
+210 rainbarf
+209 dns2tcp
+209 icon-naming-utils
+209 picocom
+209 railwaycat/emacsmacport/emacs-mac --with-modern-icon
+209 wifi-password
+208 alpine
+208 editorconfig
+208 git-ftp
+208 graphviz --with-librsvg --with-x11
+208 homebrew/php/php56 --with-imap
+208 jp2a
+208 libmaxminddb
+208 libxml++
+208 riak
+208 rogual/neovim-dot-app/neovim-dot-app --HEAD
+208 sdcc
+208 staticfloat/juliatranslated/gdbm
+207 bramstein/webfonttools/woff2
+207 homebrew/science/cgns
+207 homebrew/science/igv
+207 homebrew/science/lammps
+207 imlib2
+207 libebur128
+207 rancher-compose
+207 ucspi-tcp
+206 homebrew/versions/cassandra21
+206 mashape/kong/kong
+205 adns
+205 gnumeric
+205 homebrew/php/php55-memcached
+205 homebrew/php/php56-pcntl
+205 macvim --with-override-system-vim --with-python3
+205 poppler --with-qt
+204 ffmpeg --with-libvorbis
+204 homebrew/dupes/tcpdump
+204 libbs2b
+204 libquvi
+203 byacc
+203 fpc
+203 gtkmm3
+203 homebrew/completions/grunt-completion
+203 homebrew/science/hypre
+203 vowpal-wabbit
+203 zsh-navigation-tools
+202 bchunk
+202 ice --with-java
+202 redspread/spread/spread
+202 staticfloat/juliatranslated/libtiff
+202 todolist
+202 vim --with-python3 --with-lua --with-luajit
+201 homebrew/boneyard/clang-omp
+201 homebrew/php/phplint
+201 homebrew/science/insighttoolkit
+201 homebrew/versions/boost155
+200 sonar
+199 cifer
+199 homebrew/dupes/bzip2
+199 homebrew/science/mumps
+198 bcrypt
+198 erlang --without-wxmac
+198 gibo
+198 gmime
+198 homebrew/apache/mod_fastcgi --with-homebrew-httpd22
+198 uchardet
+197 closure-compiler
+197 coq
+197 gnu-prolog
+197 testssl
+196 librtlsdr
+196 libxc
+196 vim --with-client-server
+195 bramstein/webfonttools/sfnt2woff-zopfli
+195 git-secrets
+195 homebrew/boneyard/libiomp
+195 homebrew/fuse/ext2fuse
+194 hexedit
+194 homebrew/dupes/gpatch
+194 homebrew/php/php56-http
+194 rakudo-star
+194 tomanthony/brews/itermocil
+193 bitchx
+193 homebrew/games/ckan
+192 blackfireio/blackfire/blackfire-php70
+192 homebrew/science/opencv3 --with-java
+192 homebrew/science/petsc
+192 homebrew/science/superlu_dist
+192 lzop
+192 ta-lib
+191 cunit
+191 npth
+190 buildkite/buildkite/buildkite-agent --token=
+190 mpv --with-vapoursynth
+189 emacs --with-cocoa --with-imagemagick
+189 qcachegrind --with-graphviz
+189 staticfloat/juliadeps/mbedtls
+188 botan
+188 ceylon
+188 hardlink-osx
+188 homebrew/emacs/dash-emacs
+187 mdbtools
+187 snort
+186 homebrew/versions/autoconf213
+186 libglade
+186 vbindiff
+185 truncate
+184 docker-machine-parallels
+184 homebrew/php/php54-mcrypt
+184 homebrew/science/mafft
+184 sdl_mixer --with-libvorbis
+184 unoconv
+183 ffmpegthumbnailer
+183 homebrew/science/superlu43
+183 libspectre
+183 libstfl
+183 mopidy/mopidy/python-certifi
+183 potrace
+182 homebrew/boneyard/wkhtmltopdf
+182 homebrew/versions/go16
+182 jsonschema2pojo
+182 nsq
+182 staticfloat/juliatranslated/sqlite
+181 git --with-pcre
+181 homebrew/php/php70-yaml --HEAD
+181 macvim --with-lua --with-luajit --with-python3
+181 mopidy/mopidy/python-requests
+180 devil
+180 homebrew/versions/lua53
+180 pdfgrep
+179 ansiweather
+179 homebrew/science/arpack --with-mpi
+179 homebrew/x11/rdesktop
+179 xorriso
+178 x11vnc
+177 ghostscript --with-x11
+177 homebrew/boneyard/shrewsoft-vpn-client
+177 homebrew/games/nethack
+177 homebrew/php/php56-raphf
+177 homebrew/versions/libpng12
+177 libgda
+176 homebrew/php/php56-propro
+176 homebrew/science/opencv --with-ffmpeg
+176 libsamplerate --with-libsndfile
+175 ansifilter
+175 dub
+175 global --with-ctags
+175 graphite2
+175 homebrew/php/php70-gmagick
+175 john-jumbo
+175 libshout
+175 open-mpi --c++11
+175 quvi
+174 homebrew/php/php55 --with-homebrew-curl
+174 mysqltuner
+173 mopidy/mopidy/python-tornado
+172 doxygen --with-graphviz
+172 fop
+172 homebrew/science/field3d
+172 psqlodbc
+172 spotify/public/helios
+171 ctorrent
+171 flatbuffers
+171 homebrew/php/xdebug-osx
+171 homebrew/science/bwa
+171 homebrew/science/opencv3 --HEAD --with-contrib
+171 staticfloat/juliatranslated/gtk+3
+171 syncthing-inotify
+170 pbzip2
+170 vimpager
+170 zmap
+169 chromaprint
+169 gnu-typist
+169 languagetool
+169 mpv --HEAD --with-bundle
+169 vorbis-tools
+168 blackbox
+168 cdrtools
+168 clang-omp
+168 homebrew/completions/pip-completion
+168 tsung
+167 blackfireio/blackfire/blackfire-php56
+167 homebrew/science/gmt
+167 narwhal
+167 vim --with-override-system-vi --with-python3 --with-lua
+166 pdf2svg
+166 tcping
+166 z3
+165 homebrew/apache/mod_fastcgi
+165 neko
+165 tbb --c++11
+164 evince
+164 homebrew/python/matplotlib-basemap
+164 homebrew/science/openni
+164 imapsync
+164 q
+164 shopify/shopify/shopify-ruby
+163 homebrew/dupes/gperf
+163 homebrew/php/php70 --with-imap
+163 plowshare
+163 rarian
+163 staticfloat/juliatranslated/python
+163 staticfloat/juliatranslated/readline
+163 tarantool
+162 gtkspell3
+162 homebrew/completions/maven-completion
+162 homebrew/php/php55-phalcon
+162 nginx --with-passenger
+162 scala --with-docs
+161 app-engine-java
+161 neomutt/neomutt/neomutt
+161 yudai/gotty/gotty
+160 gauge
+160 homebrew/php/php71 --without-apache
+160 recode
+160 yle-dl
+160 zsh-history-substring-search
+159 flinesoft/bartycrouch/bartycrouch
+159 ifstat
+159 open-babel
+158 slurm
+157 gnu-apl
+157 homebrew/fuse/ifuse
+157 osgeo/osgeo4mac/qgis-28
+157 pandoc-crossref
+156 a2ps
+156 aspell --with-lang-en
+156 homebrew/boneyard/ngrok
+156 homebrew/php/php55-mongodb
+156 homebrew/python/numpy --with-openblas
+156 instantclienttap/instantclient/instantclient-sdk
+156 libaacs
+156 nexus
+156 stk
+155 apache-flink
+155 libmagic --with-python
+155 mashape/kong/ngx_openresty
+155 ros/deps/urdfdom_headers
+155 sanemat/font/ricty --powerline --vim-powerline
+155 xmake
+154 ettercap --with-gtk+
+154 homebrew/php/php70-amqp
+154 homebrew/php/php71-pdo-pgsql
+154 homebrew/versions/erlang-r18
+154 homebrew/versions/scala210
+154 libiomp
+153 libgee
+153 servo/servo/servo-bin
+153 wine --without-x11
+152 libmtp
+152 proctools
+152 tasksh
+152 vifm
+152 zsh-git-prompt
+151 daq
+151 dtc
+151 fdk-aac-encoder
+151 homebrew/nginx/lua-nginx-module
+151 homebrew/php/php56 --with-debug --with-homebrew-curl --with-homebrew-libxslt --with-imap --without-apache
+151 josegonzalez/php/php55-mcrypt
+151 liblo
+150 grpc/grpc/grpc
+149 ditaa
+149 groonga
+149 homebrew/php/php53-xdebug
+149 homebrew/science/opencv3 --with-contrib --with-qt5 --with-tbb --with-ffmpeg
+149 homebrew/science/pspp
+149 josegonzalez/php/php71
+149 libdc1394
+149 libphonenumber
+149 mongoose
+149 nuget
+149 ravenac95/sudolikeaboss/sudolikeaboss
+149 ttyrec
+148 homebrew/php/php56-amqp
+148 homebrew/versions/apache-spark16
+148 homebrew/versions/percona-server56
+148 homebrew/versions/redis28
+148 homebrew/versions/ruby193
+148 ldns
+148 nlohmann/json/nlohmann_json --HEAD
+148 ponysay
+148 proguard
+147 homebrew/php/php56 --with-homebrew-curl --with-homebrew-libxslt
+147 homebrew/science/fastqc
+147 staticfloat/juliatranslated/nlopt
+147 stlink
+147 strongswan
+146 apache-zeppelin
+146 ffmpeg --with-libass --with-fontconfig
+146 homebrew/php/php70 --with-debug --with-imap --without-apache
+146 homebrew/php/php70-swoole
+146 tippecanoe
+145 chicken
+145 collada-dom
+145 homebrew/php/php55 --with-homebrew-apxs
+145 homebrew/php/php71-redis
+145 homebrew/versions/gcc46
+145 mongo-c
+145 nim
+145 quilt
+145 ren
+144 ghi
+144 homebrew/science/maxima
+144 html2text
+144 libiodbc
+144 ros/deps/tango-icon-theme
+143 cake
+143 fakeroot
+143 geoipupdate
+143 homebrew/science/opencv --with-qt --with-tbb
+143 homebrew/x11/ddd
+143 lsyncd
+143 mergepbx
+143 pygtksourceview
+142 homebrew/dupes/whois
+142 libnfc
+142 pgloader
+142 pmd
+142 tinyproxy
+142 udunits
+141 capstone
+141 deja-gnu
+141 homebrew/php/php55-mongo
+141 homebrew/science/voro++
+140 git --with-brewed-openssl
+140 gti
+140 nrpe
+140 rapidjson
+140 renameutils
+140 screenresolution
+140 staticfloat/juliatranslated/scs
+140 swftools
+140 yubico-piv-tool
+139 macvim --with-lua --with-python3
+139 roswell
+139 theory/sqitch/sqitch_dependencies
+138 armmbed/formulae/arm-none-eabi-gcc
+138 bullet
+138 ffmpeg --with-theora --with-libvorbis --with-libvpx
+138 flac --with-libogg
+138 homebrew/php/php56-ssh2
+138 homebrew/science/tophat
+138 jrnl
+137 asciiquarium
+137 avro-tools
+137 eot-utils
+137 fontforge --HEAD --with-libspiro
+137 homebrew/php/php56-geoip
+137 namebench
+136 app-engine-go-64
+136 homebrew/science/gromacs
+136 mashape/kong/luajit
+135 boost --without-single --with-mpi
+135 chrome-cli
+135 dcfldd
+135 homebrew/fuse/s3fs
+135 homebrew/php/phpdocumentor
+135 macvim --HEAD --with-override-system-vim --with-lua --with-luajit
+135 px4/px4/genromfs
+135 spl/pdftk/pdftk
+134 homebrew/python/scipy --with-python3
+134 instantclienttap/instantclient/instantclient-basiclite
+134 jsdoc3
+134 macvim --HEAD --with-lua
+134 raptor
+134 ros/deps/console_bridge
+134 two-lame
+133 dtach
+133 homebrew/games/ppsspp
+133 homebrew/nginx/ngx-devel-kit
+133 homebrew/php/behat
+133 homebrew/php/php55-memcache
+132 homebrew/completions/docker-machine-completion
+132 homebrew/php/php70-ssh2 --HEAD
+132 homebrew/science/express
+132 jadx
+132 joshuaclayton/formulae/unused
+132 libbson
+132 logrotate
+132 macvim --with-override-system-vim --with-lua --with-python3
+132 staticfloat/juliatranslated/imagemagick
+132 valabind
+132 vsftpd
+131 atool
+131 boost --universal
+131 facebook/fb/buck --HEAD
+131 homebrew/python/matplotlib --with-python3
+131 josegonzalez/php/phpmyadmin
+131 libsigc
+131 macvim --HEAD
+131 mcpp
+131 psutils
+131 sdl_sound
+131 sstp-client
+131 tmux-mem-cpu-load
+131 wakatime-cli
+131 wireshark --with-gtk+3
+130 homebrew/boneyard/libtorrent
+130 homebrew/php/phploc
+130 httperf
+130 hyper
+130 mr
+130 open-mesh
+130 proof-general
+130 wireshark --with-qt
+129 advancecomp
+129 cfssl
+129 gnu-units
+129 gupnp
+129 homebrew/science/opencv3 --with-contrib --with-tbb --with-ffmpeg
+129 jboss-forge
+129 todo-txt
+128 glade
+128 nodeenv
+128 pcre --universal
+128 rtags
+128 spoof-mac
+128 subversion --universal
+128 volatility
+127 dart-lang/dart/dart --devel --with-content-shell --with-dartium
+127 homebrew/php/php70 --with-phpdbg
+127 homebrew/science/nco
+127 javarepl
+127 orientdb
+126 dnscrypt-proxy
+126 homebrew/php/php70 --with-debug --with-imap
+126 homebrew/science/wxmaxima
+126 homebrew/x11/libxkbcommon
+125 homebrew/php/php56-xhprof
+125 homebrew/science/r-gui
+125 plenv
+125 procmail
+125 progress
+125 vim --with-python3 --without-python
+124 ccze
+124 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-openssl --with-libssh --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-libvidstab --with-x265 --with-libsoxr --with-webp --with-zeromq --with-snappy --with-rubberband --with-zimg --with-openh264 --with-xz --with-libebur128 --with-faac --with-fontconfig --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r --with-libcaca --with-libbluray --with-libbs2b
+124 getantibody/antibody/antibody
+124 libsvg-cairo
+124 pyqt5 --without-python3 --with-python
+124 watsonbox/cmu-sphinx/cmu-sphinxbase --HEAD
+123 c-kermit
+123 cookiecutter
+123 emacs --devel --with-cocoa
+123 homebrew/science/cufflinks
+123 jsawk
+123 ldc
+123 pdftohtml
+123 pup
+123 rubinius/apps/rubinius
+123 sipcalc
+123 staticfloat/juliadeps/zeromq32
+122 desktop-file-utils
+122 ftgl
+122 homebrew/dupes/srm
+122 homebrew/php/php55 --with-postgresql
+122 homebrew/php/php70-pthreads
+122 homebrew/x11/feh
+122 staticfloat/juliatranslated/libtool
+122 tkdiff
+122 weechat --with-perl --with-ruby --with-curl --with-guile --with-aspell --with-lua --with-python
+122 wego
+121 acme
+121 go-swagger/go-swagger/go-swagger
+121 libmms
+121 podofo
+121 tccutil
+121 zbackup
+120 ccm
+120 devd
+120 h2
+120 homebrew/php/php56-oauth
+120 homebrew/php/php56-swoole
+120 homebrew/science/asl
+120 libgraphqlparser
+120 libharu
+120 mysql --with-debug
+120 qt5 --HEAD
+120 rlog
+120 sysbench
+119 cputhrottle
+119 dlite
+119 exif
+119 homebrew/completions/bundler-completion
+119 homebrew/python/scipy --with-openblas
+119 homebrew/science/bamtools
+119 homebrew/science/libmatio
+119 jfrog-cli-go
+119 rust --HEAD
+118 bsdiff
+118 libqglviewer
+118 mopidy/mopidy/python-backports-abc
+118 riemann
+118 zinc
+117 clozure-cl
+117 homebrew/games/dwarf-fortress
+117 homebrew/science/nlopt
+117 premake
+117 weechat --with-perl --with-python
+116 basex
+116 carina
+116 gengetopt
+116 grafana/grafana/grafana
+116 haraldf/kf5/kf5-extra-cmake-modules
+116 libdvdnav
+116 mopidy/mopidy/python-six
+116 ros/deps/urdfdom
+116 stress
+116 tcpkali
+115 brotli
+115 cogl
+115 homebrew/devel-only/elm-format --devel
+115 homebrew/php/php56-ioncubeloader
+115 homebrew/versions/hdf4
+115 mopidy/mopidy/python-pykka
+115 mopidy/mopidy/python-singledispatch
+115 pcsc-lite
+115 sift
+115 staticfloat/juliatranslated/gdk-pixbuf
+114 curl --with-libidn --with-rtmpdump --with-libssh2 --with-c-ares --with-gssapi --with-libmetalink --with-nghttp2
+114 homebrew/completions/gem-completion
+114 homebrew/versions/imagemagick-ruby186
+114 josegonzalez/php/php56-xdebug
+114 redshift
+114 sdl2_net
+114 shairport-sync
+114 staticfloat/juliatranslated/atk
+113 elinks --devel
+113 ffms2
+113 homebrew/php/phpbrew
+113 josegonzalez/php/php56-redis
+113 makensis
+113 mopidy/mopidy/python-backports-ssl-match-hostname
+113 sqlcipher
+112 freeradius-server
+112 gnuplot --with-cairo
+112 iterate-ch/cyberduck/duck
+112 pgrouting
+111 f3
+111 gnupg2 --with-readline
+111 homebrew/science/pear
+111 mashape/kong/serf
+111 mdk
+111 minidlna
+111 mp3info
+111 newsbeuter
+111 olafurpg/scalafmt/scalafmt
+111 sqlite-analyzer
+110 cmake --with-completion
+110 duck
+110 fish --HEAD
+110 git-imerge
+110 homebrew/completions/launchctl-completion
+110 homebrew/php/php56 --with-thread-safety
+110 minio-mc
+110 pyside-tools
+110 scriptcs
+110 sendemail
+110 starkandwayne/cf/spruce
+110 timidity
+110 wellington
+110 ykclient
+109 buku
+109 ffmpeg --with-x265
+109 fondu
+109 homebrew/games/gnu-chess
+109 logstalgia
+109 osrf/simulation/sdformat3
+109 otto
+109 reposurgeon
+109 timewarrior
+108 ccache --HEAD
+108 gifify
+108 gnuplot --with-qt5 --with-x11
+108 homebrew/completions/tmuxinator-completion
+108 homebrew/games/mednafen
+108 homebrew/php/php56-gearman
+108 homebrew/php/phpenv
+108 homebrew/science/cdo
+108 homebrew/science/h5utils
+108 homebrew/science/ncview
+108 homebrew/versions/boost159
+108 ical-buddy
+108 psgrep
+108 subversion --with-perl
+107 afflib
+107 boost-python --c++11
+107 ccrypt
+107 cliclick
+107 gssdp
+107 homebrew/science/coinmp
+107 innotop
+107 kpcli
+107 latex2rtf
+107 ldapvi
+107 ophcrack
+107 vim --with-override-system-vi --with-python3 --with-lua --with-luajit
+106 ace
+106 convmv
+106 dropbox-uploader
+106 gts
+106 homebrew/games/supertux
+106 homebrew/php/php56-uploadprogress
+106 homebrew/php/php70-apcu-bc
+106 homebrew/science/dlib
+106 homebrew/versions/glfw2
+106 ice
+106 libdap
+106 lynis
+106 ncmpc
+106 reattach-to-user-namespace --with-wrap-pbcopy-and-pbpaste
+105 base64
+105 elvish
+105 git --with-blk-sha1 --with-brewed-openssl --with-brewed-curl --with-brewed-svn --with-persistent-https --with-pcre --with-gettext
+105 homebrew/php/php55-pcntl
+105 homebrew/science/openimageio
+105 ircii
+105 libical
+105 mysql-sandbox
+105 px4/px4/kconfig-frontends
+105 sdcv
+105 srmio
+104 bsdmake
+104 ejabberd
+104 homebrew/php/php70-oauth
+104 homebrew/php/php71-imagick
+104 homebrew/python/h5py
+104 homebrew/science/kallisto
+104 josegonzalez/php/igbinary
+104 josegonzalez/php/php56-igbinary
+104 sdl2_gfx
+104 tsuru/tsuru/tsuru
+103 antiword
+103 fftw --with-fortran
+103 gnu-which
+103 grpc/grpc/grpc --with-plugins
+103 homebrew/emacs/cl-lib
+103 homebrew/science/opencv3 --HEAD --with-python3
+103 homebrew/science/sambamba
+103 log4cplus
+103 netperf
+103 opus-tools
+103 perl-build
+103 spotify/public/helios-solo
+103 staticfloat/juliatranslated/gsettings-desktop-schemas
+103 tig --with-docs
+103 vim --with-client-server --with-lua
+103 wxmac --devel
+103 yadm
+102 asciinema2gif
+102 datomic
+102 discount
+102 djvu2pdf
+102 homebrew/apache/mod_fastcgi --with-homebrew-httpd24
+102 homebrew/php/php53-mcrypt
+102 homebrew/science/igvtools
+102 homebrew/science/opencv --with-opengl --with-ffmpeg
+102 homebrew/science/picard-tools
+102 shopify/shopify/shopify-graphicsmagick
+101 amap
+101 ffmpeg2theora
+101 gnatsd
+101 homebrew/php/php55 --without-apache
+100 bro
+100 homebrew/science/opencv3 --HEAD
+100 juju
+100 qatools/formulas/allure-commandline
+100 qemu --with-sdl
+100 sdl_sound --with-libogg --with-libvorbis
+100 upscaledb
+100 xctool --HEAD
+99 cfr-decompiler
+99 glassfish
+99 govendor
+99 homebrew/science/octave --HEAD
+99 homebrew/science/trimmomatic
+99 homebrew/versions/antlr2
+99 josegonzalez/php/php56-intl
+99 kettle
+99 libass --without-harfbuzz
+99 neofetch
+98 homebrew/php/php56-mailparse
+98 lha
+98 ncrack
+98 quantlib
+98 sslyze
+98 thoughtbot/formulae/gitsh
+97 dateutils
+97 homebrew/science/bowtie
+97 homebrew/science/opencv --with-tbb
+97 hydra --with-libssh
+97 josegonzalez/php/php70-intl
+97 sox --with-libvorbis --with-flac --with-lame
+97 staticfloat/juliatranslated/openssl
+97 xdot
+96 dcmtk
+96 git-time-metric/gtm/gtm
+96 homebrew/science/bcftools
+96 pure-ftpd
+96 with-readline
+96 x265 --with-16-bit
+96 zeromq --universal
+95 aria2 --with-libssh2
+95 homebrew/science/vcftools
+95 homebrew/x11/xdotool
+95 kobalt
+95 liblas
+95 libtorrent-rasterbar
+95 mvtools
+95 python3 --devel
+95 sshrc
+94 autocode
+94 cf
+94 homebrew/x11/gv
+94 josegonzalez/php/php56-memcached
+94 libnids
+94 opencc
+94 roundup
+94 vim --without-ruby
+93 grsync
+93 hbang/repo/deviceconsole --HEAD
+93 homebrew/php/php54-igbinary
+93 homebrew/php/php71-apcu
+93 homebrew/science/openalpr
+93 io
+93 linkerd
+93 slackcat
+93 sox --with-lame
+93 trace2html
+93 wine --devel --without-x11
+92 aspell --with-all-langs
+92 csfml
+92 fzf --HEAD
+92 homebrew/nginx/upload-nginx-module
+92 homebrew/php/php71-mongodb
+92 homebrew/python/pyrit
+92 homebrew/versions/swig304
+92 khal
+92 libestr
+92 libtins --HEAD
+92 mkvtoolnix --with-qt5 --with-gettext
+92 mytop
+92 node --with-debug --with-openssl --with-full-icu
+92 ntl
+92 rpl
+92 rswift
+92 spatialite-tools
+92 tmux-cssh
+91 ecm
+91 eye-d3
+91 gnu-cobol
+91 haxe
+91 homebrew/science/fgsl
+91 homebrew/science/nglib --with-oce
+91 homebrew/science/r --with-x11
+91 homebrew/versions/android-ndk-r10e
+91 readosm
+90 cmu-sphinxbase
+90 gdal --with-postgresql
+90 gst-plugins-good --with-flac --with-jpeg --with-libshout --with-speex --with-taglib
+90 homebrew/python/pillow --with-python3
+90 macvim --with-override-system-vim --with-luajit
+90 megatools
+90 openh264
+90 patchutils
+90 ssldump
+90 subversion --with-java
+90 transcrypt
+90 vcprompt
+90 zsh-lovers
+89 ant-contrib
+89 cmocka
+89 gnuplot --with-qt
+89 homebrew/completions/ruby-completion
+89 homebrew/dupes/ed
+89 homebrew/php/php70-snmp
+89 josegonzalez/php/phpunit
+89 masscan
+89 pango --universal
+89 shopify/shopify/mysql-client
+89 tag
+89 vim --HEAD --with-override-system-vi --with-lua --with-luajit
+89 xml2
+88 cmu-pocketsphinx
+88 deis
+88 homebrew/php/symfony-installer
+88 homebrew/science/mumps --without-mpi
+88 libart
+88 llvm --HEAD
+88 opencolorio
+88 shopify/shopify/libzookeeper
+88 tesseract --with-training-tools
+88 urlview
+88 xdelta
+87 beecrypt
+87 dbus-glib
+87 drone/drone/drone
+87 ffmpeg --with-opencore-amr --with-openjpeg --with-fdk-aac --with-theora --with-libvorbis --with-libvpx
+87 homebrew/science/opencv --HEAD
+87 homebrew/science/vigra
+87 jsonnet
+87 miller
+87 minisat
+87 mmv
+87 monkeysphere
+87 osmosis
+87 rsyslog
+87 staticfloat/juliatranslated/asl
+87 tinc
+86 clutter
+86 giflossy
+86 homebrew/php/php56-msgpack
+86 homebrew/science/hdf5 --c++11
+86 homebrew/science/opencascade
+86 homebrew/science/pandaseq
+86 josegonzalez/php/php-code-sniffer
+86 liblqr
+86 neovim/neovim/neovim --with-release
+86 nlohmann/json/nlohmann_json
+86 staticfloat/juliatranslated/hicolor-icon-theme
+86 taskd
+86 translate-shell
+86 vim --with-override-system-vi --with-luajit
+85 curl --with-libssh2 --with-nghttp2
+85 gupnp-av
+85 homebrew/x11/rxvt-unicode
+85 leedm777/asterisk/asterisk
+85 libgnomecanvas
+85 profanity --with-terminal-notifier
+85 staticfloat/juliatranslated/libepoxy
+84 aha
+84 fossil
+84 github-release
+84 groovysdk
+84 hackrf
+84 homebrew/dupes/awk
+84 homebrew/science/clblas
+84 homebrew/science/emboss
+84 homebrew/versions/gstreamer010
+84 mg
+84 minizip
+84 openslide
+84 predictionio
+84 pwsafe
+84 rasqal
+84 rkhunter
+84 stoken
+83 citus
+83 derekkwok/python/python34
+83 ffmpeg --with-theora --with-libvorbis
+83 homebrew/dupes/openldap --with-berkeley-db4
+83 homebrew/science/qgis
+83 homebrew/versions/gradle27
+83 http-parser
+83 josegonzalez/php/php54-mcrypt
+83 modules
+83 mopidy/mopidy/python-cffi
+83 par
+83 poppler --with-qt5
+83 staticfloat/julia/cloog018-julia
+83 tomcat-native
+83 uber/alt/objective-caml401-uber
+82 acmetool
+82 homebrew/science/sundials --without-mpi
+82 homebrew/versions/libxml278
+82 lesspipe
+82 libmp3splt
+82 mu --with-emacs
+82 povray
+82 sha2
+82 staticfloat/julia/isl011-julia
+82 theory/sqitch/sqitch
+81 boost --with-icu4c --c++11
+81 dnstracer
+81 elixir --HEAD
+81 fftw --with-openmp
+81 gitbucket
+81 gor
+81 gprof2dot
+81 gtkextra
+81 homebrew/boneyard/rtorrent
+81 homebrew/science/abyss
+81 html-xml-utils
+81 memtester
+81 mpv --with-bundle --with-libarchive --with-vapoursynth
+81 nyancat
+81 python3 --universal
+81 uber/alt/arcanist
+81 vim --without-perl --without-python --without-ruby
+80 ansible --HEAD
+80 dart-lang/dart/dart --devel
+80 ddclient
+80 ffmpeg --with-openssl
+80 homebrew/php/codeception
+80 homebrew/python/numpy --without-python --with-python3
+80 josegonzalez/php/php55-intl
+80 liquidprompt
+80 nmap --with-pygtk
+80 theharvester
+80 uber/alt/unison240-uber
+79 autopsy
+79 chkrootkit
+79 d235j/osvr/libfunctionality --HEAD
+79 doxygen --with-graphviz --with-qt5 --with-llvm
+79 ffmpeg --without-qtkit --with-rtmpdump --with-libass --with-openssl --with-fdk-aac --with-x265 --with-rubberband --with-theora --with-libvorbis --with-libbs2b
+79 gcal
+79 gupnp-tools
+79 hhvm/hhvm/hhvm --HEAD
+79 homebrew/php/php56-mysqlnd_ms
+79 josegonzalez/php/php56-opcache
+79 libmetalink
+79 mdp
+79 mobiledevice
+79 mu
+79 osxutils
+78 abook
+78 aview
+78 cpulimit
+78 findbugs
+78 git-hooks
+78 homebrew/php/drush --HEAD
+78 homebrew/php/php55-yaml
+78 homebrew/php/php56 --with-debug
+78 homebrew/science/hdf5 --with-fortran
+78 homebrew/tex/latexdiff
+78 josegonzalez/php/php70-xdebug
+78 lesstif
+78 mldonkey
+78 mu --HEAD --with-emacs
+78 mysql-connector-c++
+78 osgeo/osgeo4mac/grass-64
+78 osrf/simulation/gazebo1
+78 switchaudio-osx
+77 cheba/rust-nightly/rust-nightly
+77 drolando/deadsnakes/python34
+77 homebrew/php/php70-pspell
+77 homebrew/science/gmsh
+77 homebrew/science/hmmer
+77 homebrew/versions/docker171
+77 macvim --with-luajit
+77 nitsky/stm32/arm-none-eabi-gcc
+77 openconnect --HEAD
+77 pothosware/pothos/soapysdr
+77 slowhttptest
+77 wavpack
+76 ffmpeg --with-libass --with-ffplay --with-fdk-aac --with-x265 --with-faac --with-freetype --with-libvorbis --with-libvpx --with-opus
+76 forego
+76 git --with-brewed-curl
+76 git-standup
+76 gollum
+76 homebrew/apache/httpd24 --with-privileged-ports --with-http2
+76 homebrew/dupes/lsof
+76 homebrew/nginx/nginx-full --with-upload-module
+76 homebrew/science/paraview
+76 krssh-keg
+76 loudmouth
+76 mp3splt
+76 pwntools
+76 scala --with-docs --with-src
+76 scalastyle
+76 vim --without-perl
+75 bdw-gc --universal
+75 bitlbee
+75 homebrew/completions/packer-completion
+75 homebrew/completions/rails-completion
+75 homebrew/emacs/org-mode
+75 homebrew/games/dosbox
+75 homebrew/php/php70-uuid
+75 killercup/openresty/ngx_openresty
+75 micropython
+75 mobile-shell --HEAD
+75 newt --with-python
+75 nzbget
+75 samba
+75 theory/sqitch/sqitch_pg
+75 tor --with-libscrypt
+74 dropbear
+74 facebook/fb/fbsimctl --HEAD
+74 git-fresh
+74 git-secret
+74 gnome-common
+74 gnuplot --with-cairo --with-x11
+74 graphviz --with-gts
+74 homebrew/php/php71-gmp
+74 homebrew/versions/mariadb100
+74 homebrew/versions/tomcat6
+74 isync
+74 josegonzalez/php/php53
+74 mkdocs
+74 moc
+74 open-mpi --without-fortran
+74 pyqt5 --with-python
+74 srecord
+74 vim --with-custom-ruby
+74 xmlrpc-c
+73 andyetitmoves/public/tinyproxy-libproxy
+73 ascii
+73 d-bus
+73 dyld-headers
+73 eddieantonio/eddieantonio/imgcat
+73 gauche
+73 gdm
+73 gerbv
+73 gnuplot --with-aquaterm --with-qt5
+73 gofabric8
+73 homebrew/php/php56-solr
+73 htmldoc
+73 htop --with-ncurses
+73 imagemagick --with-perl
+73 luabind
+73 meson
+73 osm-pbf
+73 osrf/simulation/sdformat
+73 pivotal/tap/git-pair
+73 rsnapshot
+73 shyaml
+73 spaceman-diff
+73 tika
+73 translate-toolkit
+73 yaz
+72 caf
+72 cimg
+72 clipper
+72 dsh
+72 homebrew/binary/chronograf
+72 homebrew/dupes/groff
+72 libraw
+72 lldpd
+72 pothosware/pothos/pothossdr
+72 saxon
+71 cmigemo
+71 convox
+71 emacs --devel --with-cocoa --with-gnutls --with-imagemagick
+71 emacs-clang-complete-async
+71 envchain
+71 gnutls --with-guile --with-unbound
+71 homebrew/completions/open-completion
+71 homebrew/completions/rake-completion
+71 homebrew/science/fastx_toolkit
+71 homebrew/science/opencv3 --with-contrib --with-cuda --with-qt5 --with-tbb --with-ffmpeg
+71 homebrew/versions/gst-plugins-base010
+71 kevwil/patches/mutt --with-trash-patch --with-sidebar-patch --with-confirm-attachment-patch --with-gpgme
+71 macosvpn
+71 mlton
+71 rkrug/head-only/grass-trunk --HEAD --with-postgresql --with-netcdf
+71 shntool
+71 signify-osx
+71 vim --with-custom-python
+70 airspy
+70 dieharder
+70 homebank
+70 homebrew/apache/httpd24 --with-http2
+70 homebrew/boneyard/pyenv-pip-rehash
+70 homebrew/nginx/echo-nginx-module
+70 homebrew/php/php54-intl
+70 homebrew/php/php70-msgpack
+70 homebrew/python/matplotlib --with-cairo --with-tex
+70 infinit/releases/infinit
+70 jcgay/jcgay/maven-deluxe
+70 libdshconfig
+70 newlisp
+70 staticfloat/julia/gmp4-julia
+70 staticfloat/julia/llvm33-julia
+70 terraform-inventory
+70 thoughtbot/formulae/liftoff
+70 viennacl
+69 argyll-cms
+69 azukiapp/azk/azk
+69 cfitsio
+69 doxygen --with-graphviz --with-qt5
+69 fftw --with-fortran --with-mpi --with-openmp
+69 homebrew/php/php54-imagick
+69 homebrew/science/kent-tools
+69 homebrew/science/opencv --without-numpy
+69 manastech/crystal/crystal-lang
+69 mpv --with-bundle --with-vapoursynth
+69 nagios
+69 ola
+69 par2
+69 putty --HEAD --with-gtk+3
+69 shopify/shopify/rds-ssl
+69 vim --HEAD --with-python3 --with-lua --with-luajit
+69 zegervdv/zathura/zathura
+68 apache-drill
+68 burp
+68 crf++
+68 homebrew/boneyard/powerline
+68 homebrew/dupes/tcl-tk --with-x11
+68 homebrew/emacs/magit
+68 homebrew/science/gdcm
+68 homebrew/science/octave --with-openblas
+68 homebrew/science/perf
+68 homebrew/science/vsearch
+68 homebrew/versions/jenkins-lts
+68 josegonzalez/php/php55-xdebug
+68 keepassc
+68 natalie
+68 parquet-tools
+68 portaudio --universal
+68 python-markdown
+68 zpaq
+67 dylibbundler
+67 filebeat
+67 homebrew/php/php71 --with-pear
+67 homebrew/x11/wmctrl
+67 josegonzalez/php/php56 --without-apache
+67 remarshal
+66 certigo
+66 fontforge --HEAD
+66 homebrew/php/libsphinxclient
+66 homebrew/php/php56-yaf
+66 homebrew/science/cd-hit
+66 homebrew/science/clfft
+66 homebrew/science/slepc
+66 homebrew/versions/mono3
+66 kdiff3
+66 nanomsg
+66 osrf/simulation/gazebo6
+66 osrf/simulation/ignition-msgs
+66 rbenv-bundler-ruby-version
+66 sdl2_mixer --with-libvorbis
+66 stanford-parser
+66 svg2png
+66 vdirsyncer
+66 vim --with-custom-perl
+65 cmark
+65 diffuse
+65 fabio
+65 gjstest
+65 graphviz --with-bindings --with-pango --with-app --with-gts --with-librsvg --with-freetype --with-x11
+65 homebrew/fuse/tup
+65 homebrew/science/cantera
+65 homebrew/science/lp_solve
+65 homebrew/versions/zeromq32
+65 homebrew/x11/scantailor
+65 josegonzalez/php/php56-mongo
+65 josegonzalez/php/php70-opcache
+65 lua --with-completion
+65 open-zwave
+65 p0f
+65 rack
+65 ruby --with-doc
+65 smali
+65 sslsplit
+65 tkengo/highway/highway
+65 watsonbox/cmu-sphinx/cmu-pocketsphinx --HEAD
+64 acrogenesis/macchanger/macchanger
+64 dict
+64 ffmpeg --with-libass
+64 gh
+64 git-when-merged
+64 gjs
+64 homebrew/php/php55 --with-imap
+64 homebrew/php/php70-geoip
+64 homebrew/php/php71-pdo-dblib
+64 homebrew/science/libccd
+64 homebrew/science/mathgl
+64 josegonzalez/php/php56 --with-postgresql
+64 nanopb-generator
+64 unrtf
+64 zabbix
+63 aptly
+63 boost-python --without-python --with-python3
+63 codequery
+63 ffmpeg --with-ffplay --with-theora --with-libvorbis
+63 git --with-brewed-svn
+63 gotags
+63 homebrew/php/arcanist
+63 homebrew/php/arcanist --HEAD
+63 homebrew/php/php55-http
+63 homebrew/php/php56 --with-apache --with-homebrew-curl --with-homebrew-libxslt
+63 homebrew/science/dsdp
+63 homebrew/versions/perl518
+63 homebrew/x11/fox
+63 hopenpgp-tools
+63 jags
+63 jshon
+63 node --with-debug
+63 pdfcrack
+63 pgbouncer
+63 s-search
+63 spring-roo
+63 tarsnap
+62 bwm-ng
+62 deisctl
+62 dhex
+62 fltk --devel
+62 git --with-pcre --with-gettext
+62 grammarly/tap/rocker
+62 homebrew/nginx/headers-more-nginx-module
+62 homebrew/php/php54-redis
+62 homebrew/science/netcdf --with-cxx-compat --with-fortran
+62 homebrew/science/octave --with-gui
+62 open-mpi --with-mpi-thread-multiple
+62 pick
+62 qt --with-qt3support
+62 qtfaststart
+62 vim --with-lua --with-tcl
+62 vim --without-perl --without-ruby
+62 zurl
+61 cdiff
+61 curl --with-libressl --with-nghttp2
+61 daemonize
+61 goles/battery/battery
+61 graphviz --with-bindings --with-pango --with-app --with-gts --with-librsvg --with-freetype
+61 guitorri/tap/adms
+61 homebrew/php/php56-twig
+61 homebrew/science/opencv --c++11
+61 homebrew/science/vcflib
+61 homebrew/science/xraylib --with-fortran
+61 homebrew/versions/docker111
+61 homebrew/versions/selenium-server-standalone245
+61 libbi
+61 mpv --HEAD
+61 node --with-debug --with-openssl
+61 openshift-cli --devel
+61 peco/peco/peco
+61 rbenv-vars
+61 swaks
+61 tomcat --with-fulldocs
+61 winexe
+61 youtube-dl --HEAD
+60 arm
+60 assh
+60 dtrx
+60 emacs --with-cocoa --with-gnutls --with-imagemagick --with-mailutils
+60 ffmpeg --with-tools
+60 freeipmi
+60 gdal --HEAD
+60 gitversion
+60 homebrew/versions/erlang-r19
+60 homebrew/x11/freerdp --HEAD
+60 id3tool
+60 latex2html
+60 libmaa
+60 mediaconch
+60 monetdb
+60 pcap_dnsproxy
+60 postgresql --devel
+60 postgrest
+60 railwaycat/emacsmacport/emacs-mac --with-official-icon
+60 sipp
+60 stepanstipl/noop/yum-metadata-parser
+60 subversion --with-python
+60 znc
+59 apngasm
+59 armor
+59 boost --c 11
+59 ccextractor
+59 cgrep
+59 clojurescript
+59 git-subrepo
+59 graphicsmagick --with-quantum-depth-16
+59 homebrew/fuse/gcsfuse
+59 homebrew/php/php70 --with-debug
+59 homebrew/science/dotwrp
+59 homebrew/science/opencv3 --with-contrib --with-ffmpeg
+59 isc-dhcp
+59 libgroove
+59 libmikmod
+59 libmodplug
+59 librevenge
+59 michaeldfallen/formula/git-radar
+59 mockserver
+59 ncmpcpp --with-visualizer
+59 ojford/formulae/loginitems
+59 pivotal/tap/springxd
+59 rdkit/rdkit/rdkit
+59 sslmate
+59 xcenv
+58 autotrace
+58 cereal
+58 coreutils --with-gmp
+58 homebrew/dupes/krb5
+58 homebrew/php/php56 --with-postgresql --with-debug --with-imap
+58 homebrew/php/php70-v8js
+58 homebrew/science/jellyfish
+58 homebrew/science/octave --with-audio
+58 homebrew/versions/ffmpeg28
+58 jena
+58 nginx --devel
+58 opencsg
+58 sqoop
+58 staticfloat/juliadeps/ipopt
+57 blitz
+57 bmake
+57 chapel
+57 connect
+57 cp4k/hello-world-2/hello-world-2
+57 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-openssl --with-libssh --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-libvidstab --with-x265 --with-libsoxr --with-webp --with-zeromq --with-snappy --with-rubberband --with-zimg --with-openh264 --with-faac --with-fontconfig --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r --with-libcaca --with-libbluray --with-libbs2b
+57 graphviz --with-bindings
+57 grib-api
+57 homebrew/apache/httpd24 --with-mpm-event --with-privileged-ports
+57 homebrew/php/php54-memcached
+57 homebrew/php/php70-ast
+57 homebrew/science/opencv3 --with-ffmpeg
+57 homebrew/versions/clang-format38
+57 homebrew/versions/gst-ffmpeg010
+57 jo
+57 josegonzalez/php/php55 --without-apache
+57 khard
+57 kube-aws
+57 macvim --HEAD --with-override-system-vim --with-lua
+57 mpack
+57 postgresql --with-python3
+57 pyside --with-python3
+57 racket
+57 termtile --HEAD
+57 v
+57 wireshark --with-gtk+
+57 yafc
+56 altkatz/gcc_cross_compilers/i386-elf-gcc
+56 buildkite/buildkite/buildkite-agent
+56 bvi
+56 cp4k/hello-world-2/pygame
+56 cups-pdf
+56 d12frosted/emacs-plus/emacs-plus --with-cocoa --with-gnutls --with-imagemagick
+56 dart-lang/dart/dart --with-dartium
+56 emojify
+56 ffmpeg --with-freetype
+56 groonga --with-mecab
+56 hledger
+56 homebrew/games/onscripter
+56 homebrew/php/php54 --with-apache
+56 homebrew/science/fasttree
+56 homebrew/science/opencv3 --with-contrib --with-ffmpeg --with-python3
+56 homebrew/versions/boost-python159
+56 homebrew/x11/xclip
+56 icu4c --c++11
+56 instantclienttap/instantclient/instantclient-sqlplus
+56 kerl
+56 libgaiagraphics
+56 mpw
+56 pyqt --without-python --with-python3
+56 selecta
+56 sickbeard
+56 skipfish
+56 vim --with-override-system-vi --with-python3 --with-lua --with-tcl --with-luajit
+56 vim --without-python
+56 websocketd
+56 yleisradio/terraforms/chtf
+55 abcde
+55 bacula-fd
+55 bblacey/taps/med-file
+55 curl --with-libressl
+55 ddate
+55 exploitdb
+55 fetchmail
+55 gdal --with-unsupported --with-libkml --with-mysql
+55 gforth
+55 homebrew/fuse/gitfs
+55 homebrew/php/php54-memcache
+55 homebrew/php/php70-libsodium
+55 homebrew/php/php70-redis --HEAD
+55 homebrew/php/php70-yaf
+55 homebrew/science/armadillo --with-hdf5
+55 homebrew/science/rstudio-server
+55 jpeginfo
+55 libdaemon
+55 libstxxl
+55 mdf2iso
+55 mplayer --with-libcaca
+55 node-build --HEAD
+55 plplot
+55 rbenv-aliases
+55 rbenv-bundle-exec
+55 sshguard
+55 unpaper
+55 zssh
+54 clib
+54 colormake
+54 cp4k/hello-world-2/sdl_image
+54 dhcpdump
+54 homebrew/php/php70 --with-postgresql --without-apache
+54 homebrew/python/pillow --without-python --with-python3
+54 homebrew/science/graph-tool --with-python3
+54 libmongoclient
+54 mahout
+54 open-mpi --with-mpi-thread-multiple --c++11
+54 pyenv-virtualenv --HEAD
+54 sanelson/freecad/pivy --HEAD
+54 sngrep
+54 vim --with-override-system-vi --with-python3 --with-lua --with-mzscheme --with-tcl --with-luajit
+54 wemux
+54 youtube-dl --HEAD --with-rtmpdump
+53 a52dec
+53 avro-c
+53 charm
+53 cp4k/hello-world-2/sdl_mixer
+53 cuetools
+53 embulk
+53 gdl
+53 homebrew/emacs/seq
+53 homebrew/php/php56 --with-mssql
+53 homebrew/php/php56-crypto
+53 homebrew/php/php56-pthreads
+53 homebrew/science/abinit
+53 homebrew/science/arrayfire
+53 homebrew/science/bedops
+53 homebrew/science/hdf5 --with-mpi --with-fortran
+53 homebrew/versions/zeromq40
+53 homebrew/x11/bochs
+53 httpry
+53 josegonzalez/php/php56 --with-debug --with-imap
+53 libidl
+53 libogg --universal
+53 libpst
+53 mp3gain
+53 rancher-cli
+53 spatialite-gui
+53 splint
+52 b2-tools
+52 checkbashisms
+52 cielavenir/ciel/arj
+52 conserver
+52 docmunch/pdftk/pdftk
+52 epsilon
+52 gwenhywfar
+52 gwerbin/tap/neovim-qt
+52 hello
+52 homebrew/dupes/make --with-default-names
+52 homebrew/games/fs-uae
+52 homebrew/games/gnu-go
+52 homebrew/nginx/upload-progress-nginx-module
+52 homebrew/versions/gcc49 --without-multilib
+52 homebrew/versions/go15
+52 homebrew/versions/llvm33
+52 imagemagick --with-quantum-depth-8
+52 lfe
+52 llvm --with-python
+52 mercurial --with-custom-python
+52 proftpd
+52 staticfloat/julia/julia --HEAD
+52 swi-prolog --HEAD
+52 tcptrack
+51 aws-cfn-tools
+51 creduce
+51 csv-fix
+51 dwdiff
+51 eris
+51 ffmpeg --HEAD
+51 gocr
+51 gpsbabel --with-libusb
+51 hevea
+51 homebrew/completions/apm-bash-completion
+51 homebrew/dupes/openssh --with-ldns
+51 homebrew/games/minetest
+51 homebrew/php/php56-yac
+51 homebrew/php/php56-zmq
+51 homebrew/science/raxml
+51 homebrew/versions/iojs
+51 http_load
+51 icecast
+51 josegonzalez/php/php56-imagick
+51 josegonzalez/php/php70 --without-apache
+51 jump
+51 llvm --with-clang
+51 lv2
+51 osrf/simulation/gazebo5
+51 pod2man
+51 postgresql --with-dtrace --with-python
+51 pyenv --HEAD
+51 sanelson/freecad/coin --without-soqt --without-framework
+51 shibboleth-sp
+51 smake
+51 tofrodos
+51 tox/tox/libtoxcore --HEAD
+51 zegervdv/zathura/girara
+50 agedu
+50 aubio
+50 doxygen --with-graphviz --with-llvm
+50 fonttools
+50 homebrew/boneyard/luarocks
+50 homebrew/php/php55 --with-pear
+50 homebrew/php/php56-couchbase
+50 homebrew/php/php70 --with-gmp
+50 homebrew/php/php71-yaml
+50 homebrew/science/plink
+50 homebrew/tex/auctex
+50 homebrew/x11/mupdf
+50 imagemagick --with-openjpeg
+50 libupnp
+50 mapserver
+50 nginx --with-debug
+50 openrtsp
+50 pachyderm/tap/pachctl
+50 png++
+50 protobuf --HEAD
+50 pxz
+50 redis --with-jemalloc
+50 samritchie/forge/forge
+50 sdl2 --universal
+50 vcsh
+50 vim --HEAD --with-override-system-vi
+50 x264 --with-10-bit
+49 afsctool
+49 agda
+49 baobab
+49 curl --with-c-ares
+49 fail2ban
+49 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-faac --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r
+49 getmail
+49 gssh
+49 harfbuzz --universal
+49 homebrew/boneyard/samba
+49 homebrew/dupes/tcl-tk --with-threads
+49 homebrew/science/armadillo --with-hdf5 --c++11
+49 homebrew/science/cmdstan
+49 homebrew/science/colpack
+49 homebrew/science/netcdf --with-cxx-compat
+49 homebrew/science/openfst
+49 josegonzalez/php/php70-memcached --HEAD
+49 libevent --HEAD
+49 linode/cli/linode-cli
+49 maven-shell
+49 pgroonga
+49 rmate
+49 runit
+49 sqlite --universal --with-functions
+49 supermomonga/splhack/cmigemo-mk --HEAD
+48 bashdb
+48 bokken
+48 boost --without-single --with-mpi --c++11
+48 castxml
+48 ford
+48 global --with-ctags --with-pygments --with-sqlite3
+48 gnuplot --with-aquaterm --with-qt5 --with-x11
+48 go --HEAD
+48 graphviz --with-bindings --with-app
+48 homebrew/php/php55-xhprof
+48 homebrew/science/deeplearning4j-cli
+48 homebrew/science/freebayes
+48 homebrew/science/muscle
+48 homebrew/versions/node4-lts --without-npm
+48 homebrew/x11/curlftpfs
+48 josegonzalez/php/wp-cli
+48 keith/formulae/reminders-cli
+48 lean-cli
+48 libgsm
+48 libreadline-java
+48 libscrypt
+48 llvm --with-lldb --with-python
+48 mtg/essentia/essentia --HEAD
+48 pixz
+48 pyexiv2
+48 sammy007/cryptonight/monero
+48 unixodbc --universal
+48 whatmask
+47 aykamko/tag-ag/tag-ag
+47 bear
+47 blackfireio/blackfire/blackfire-php55
+47 catimg
+47 courier-unicode
+47 digdag
+47 ec2-ami-tools
+47 ecl
+47 emp
+47 ethcore/ethcore/parity --beta
+47 gmp --c++11
+47 homebrew/binary/jad
+47 homebrew/php/php53-imagick
+47 homebrew/php/php54-apc
+47 homebrew/php/php70-mailparse
+47 homebrew/python/pymssql
+47 homebrew/science/nextflow
+47 imagemagick --with-fontconfig --with-ghostscript
+47 libp11
+47 mfoc
+47 mpv --with-bundle --with-libdvdread
+47 ocaml --with-x11
+47 rcs
+46 boost-bcp
+46 cgal --c++11
+46 cmake --without-docs
+46 domt4/chromium/chromium
+46 epubcheck
+46 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-ffplay --with-tools --with-fdk-aac --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r
+46 fisherman/tap/fisherman
+46 fltk --devel --universal
+46 git --with-blk-sha1 --with-pcre
+46 graphviz --with-bindings --with-pango --with-librsvg --with-freetype
+46 gsl --universal
+46 halibut
+46 homebrew/games/pacman4console
+46 homebrew/php/php56-pspell
+46 homebrew/php/php70 --with-homebrew-curl --without-apache
+46 homebrew/science/astrometry-net
+46 homebrew/science/gnudatalanguage
+46 homebrew/science/spades
+46 homebrew/versions/ruby20
+46 imagemagick --with-liblqr
+46 innoextract
+46 jnettop
+46 josegonzalez/php/php55 --with-postgresql
+46 mlt
+46 mutt --with-gpgme
+46 nwoolls/xgminer/bfgminer
+46 pyqwt
+46 railwaycat/emacsmacport/emacs-mac --with-spacemacs-icon --with-gnutls --with-imagemagick
+46 redspread/spread/spread-versioning
+46 ripgrep
+46 sanemat/font/ricty --vim-powerline
+46 staticfloat/juliatranslated/libarchive
+45 curl --with-gssapi
+45 dnsmasq --with-dnssec
+45 docker-gen
+45 emacs --with-cocoa --with-ctags
+45 enchant --with-python
+45 eventql
+45 gcore
+45 gdk-pixbuf --with-relocations
+45 homebrew/games/rogue
+45 homebrew/php/php53 --with-postgresql
+45 homebrew/php/php53-igbinary
+45 homebrew/php/php55-amqp
+45 homebrew/php/psysh
+45 homebrew/python/numba
+45 homebrew/science/mbsystem
+45 homebrew/science/opencv3 --with-contrib --with-qt5 --with-tbb --with-ffmpeg --with-python3
+45 homebrew/science/symphony
+45 homebrew/versions/percona-server55
+45 homebrew/x11/chezscheme
+45 josegonzalez/php/php56-memcache
+45 launch_socket_server
+45 libxmp
+45 memcache-top
+45 mplayershell
+45 octoblu/tools/travisify
+45 osgeo/osgeo4mac/gdal-grass64
+45 pidcat --HEAD
+45 scalaenv
+45 usbmuxd --HEAD
+45 vice
+45 weechat --with-perl --with-ruby --with-lua --with-python
+45 wordnet
+44 ddar
+44 debianutils
+44 devhelp
+44 drip
+44 efl
+44 emacs --with-cocoa --with-dbus --with-gnutls --with-imagemagick --with-mailutils
+44 facebook/fb/fbsimctl
+44 gammu
+44 git --with-blk-sha1 --with-brewed-openssl --with-brewed-curl --with-persistent-https --with-pcre --with-gettext
+44 git-ssh
+44 gwyddion
+44 hadolint
+44 homebrew/science/arpack --with-openblas
+44 hubflow
+44 huedollar
+44 jam
+44 jq --HEAD
+44 kore
+44 lcdf-typetools
+44 libngspice
+44 libplist --HEAD
+44 macvim-dev/macvim/macvim --HEAD --with-properly-linked-python2-python3
+44 mruby
+44 mydumper
+44 nghttp2 --with-python3
+44 nginx --with-gunzip
+44 rust --with-llvm
+44 sf-pwgen
+44 svg2pdf
+44 ttf2eot
+44 uni2ascii
+43 dnsmap
+43 emacs --HEAD
+43 fbida
+43 git-cal
+43 homebrew/emacs/let-alist
+43 homebrew/games/fceux
+43 homebrew/games/openttd
+43 homebrew/php/php53 --with-apache
+43 homebrew/php/php55 --with-thread-safety
+43 homebrew/php/php55-mcrypt --without-homebrew-php
+43 homebrew/php/php56 --with-postgresql --with-apache
+43 homebrew/php/php71 --with-homebrew-apxs
+43 homebrew/php/php71-amqp
+43 homebrew/python/matplotlib --without-python --with-python3
+43 homebrew/science/opencv3 --with-tbb --with-ffmpeg --with-python3
+43 homebrew/science/tbl2asn
+43 homebrew/tex/git-latexdiff
+43 homebrew/versions/gcc5 --without-multilib
+43 imagemagick --with-little-cms
+43 josegonzalez/php/php55-redis
+43 josegonzalez/php/php70-pdo-pgsql
+43 jvmtop
+43 libsmi
+43 node --HEAD
+43 node --without-npm --with-full-icu
+43 petere/postgresql/postgresql-9.2
+43 pivotal/tap/gemfire
+43 reattach-to-user-namespace --with-wrap-pbcopy-and-pbpaste --with-wrap-launchctl
+43 robotastic/hackrf/gr-osmosdr --HEAD
+43 taylor
+43 unicorn
+43 vim --with-override-system-vi --with-lua --with-tcl --with-luajit
+43 yelp-xsl
+43 zabbix --without-server-proxy
+42 aacgain
+42 abcm2ps
+42 bup
+42 cd-discid
+42 dartsim/dart/fcl
+42 distcc
+42 djl/apache2/apache24
+42 gtk+ --with-jasper
+42 homebrew/dupes/openssh --with-libressl
+42 homebrew/games/scummvm
+42 homebrew/php/php56 --with-debug --with-imap
+42 homebrew/php/php56-uuid
+42 homebrew/science/diamond
+42 homebrew/science/idba
+42 homebrew/science/prodigal
+42 homebrew/science/trilinos
+42 homebrew/tex/latex-mk
+42 homebrew/versions/cmake31
+42 homebrew/versions/kafka080
+42 hub --HEAD
+42 hybridgroup/tools/gort
+42 julius
+42 lrzip
+42 mariadb-connector-c
+42 mas --HEAD
+42 mbelib
+42 proxytunnel
+42 rlishtaba/iconnect-eft/iconnect-eft
+42 ruby --devel
+42 sops
+42 ssllabs-scan
+42 theseal/ssh-askpass/ssh-askpass
+41 bonnie++
+41 contacts
+41 cromwell
+41 dnstop
+41 doxygen --with-qt5
+41 duply
+41 ffmpeg --HEAD --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-openssl --with-libssh --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-libvidstab --with-x265 --with-libsoxr --with-webp --with-zeromq --with-snappy --with-rubberband --with-zimg --with-openh264 --with-xz --with-libebur128 --with-faac --with-fontconfig --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r --with-libcaca --with-libbluray --with-libbs2b
+41 gconf
+41 ginac
+41 gitless
+41 graphicsmagick --with-ghostscript
+41 homebrew/boneyard/dsniff
+41 homebrew/boneyard/orpie
+41 homebrew/devel-only/elm-format --HEAD
+41 homebrew/emacs/olivetti
+41 homebrew/php/php55-mysqlnd_ms
+41 homebrew/php/php70 --with-apache --with-homebrew-curl
+41 homebrew/php/phppgadmin
+41 homebrew/science/ipopt
+41 homebrew/science/meme
+41 homebrew/science/opencv --with-tbb --with-ffmpeg
+41 homebrew/science/opencv3 --c++11
+41 homebrew/science/r --with-openblas --with-x11
+41 homebrew/science/samtools-0.1
+41 homebrew/versions/bazel02
+41 josegonzalez/php/php-cs-fixer
+41 josegonzalez/php/php54-xdebug
+41 josegonzalez/php/php55-igbinary
+41 libbpg
+41 libdv
+41 libqtshadowsocks
+41 pdf-redact-tools
+41 pgpdump
+41 totakke/openni/nite
+41 tsl0922/ttyd/ttyd
+41 two1
+41 vim --HEAD --with-python3 --with-lua
+41 yaws
+41 you-get --with-rtmpdump
+40 cpputest
+40 danielbayley/ery/woff2sfnt-sfnt2woff
+40 darkice
+40 emacs --with-cocoa --with-modules --with-gnutls --with-imagemagick
+40 esnet/epass/epass
+40 ethereum/ethereum/cpp-ethereum --devel --successful
+40 ffind
+40 ffmpeg --with-ffplay --with-libvorbis --with-libvpx
+40 flowgrind
+40 freeswitch/freeswitch/flite
+40 homebrew/completions/stormssh-completion
+40 homebrew/nginx/nginx-full --with-lua-module
+40 homebrew/php/drupal-code-sniffer
+40 homebrew/php/php56 --with-cgi
+40 homebrew/php/php56 --with-debug --with-homebrew-curl --with-homebrew-libxslt --with-imap
+40 homebrew/php/php56 --with-homebrew-curl --without-apache
+40 homebrew/php/php56-xcache
+40 homebrew/php/php70-event
+40 homebrew/science/openblas --HEAD --with-openmp
+40 homebrew/science/xraylib
+40 homebrew/versions/protobuf260 --c++11
+40 josegonzalez/php/php55-imagick
+40 libcaca --with-imlib2
+40 libnotify
+40 libtorrent-rasterbar --with-python
+40 macvim --HEAD --with-lua --with-luajit --with-python3
+40 notmuch --with-emacs
+40 pkgdiff
+40 pygtk --with-libglade
+40 qemu --with-vde --with-sdl --with-gtk+ --with-libssh2
+40 serd
+40 shopify/shopify/toxiproxy
+40 sip --without-python --with-python3
+40 sord
+40 sqlite --with-fts --with-functions
+40 sqlite --with-json1
+40 squirrel
+40 staticfloat/juliatranslated/gsl
+40 stepanhruda/tap/ios-simulator-app-installer
+40 tcsh
+40 thrust
+40 tutum
+40 u-boot-tools
+40 vim --HEAD --with-lua --with-mzscheme --with-luajit
+40 xsane
+40 zshdb
+39 colortail
+39 ethereum/ethereum/ethereum --devel
+39 flume
+39 git --with-blk-sha1 --with-brewed-openssl --with-brewed-curl --with-pcre --with-gettext
+39 git --with-brewed-openssl --with-brewed-curl --with-pcre --with-gettext
+39 gnome-builder
+39 gnuplot --with-wxmac
+39 heroku-toolbelt
+39 homebrew/emacs/ledger-mode
+39 homebrew/games/rom-tools
+39 homebrew/php/php56 --with-homebrew-curl --with-homebrew-libxslt --with-imap
+39 homebrew/php/php56 --with-postgresql --with-pear
+39 homebrew/php/php70 --with-postgresql --with-homebrew-curl
+39 homebrew/php/php71 --with-postgresql
+39 homebrew/python/pygame --with-python3
+39 homebrew/science/enblend-enfuse
+39 homebrew/science/seqtk
+39 homebrew/science/vtk --without-python --with-python3
+39 httpdiff
+39 josegonzalez/php/php56 --with-postgresql --with-debug --with-imap
+39 lemon
+39 libiscsi
+39 mkvtomp4
+39 mrtrix3/mrtrix3/mrtrix3
+39 muparser
+39 ooniprobe
+39 paulp/extras/coursier --HEAD
+39 pothosware/pothos/soapyrtlsdr
+39 pushpin
+39 px4/px4/gcc-arm-none-eabi-48
+39 rbenv --HEAD
+39 rdiff-backup
+39 rvm
+39 shc
+39 sudar/arduino-mk/arduino-mk
+39 teensy_loader_cli
+39 tty-clock
+39 vim --with-python3 --with-lua --with-mzscheme --with-tcl --with-luajit
+39 virtualhost.sh
+39 vit
+38 biobakery/biobakery/metaphlan2
+38 cabocha
+38 closure-linter
+38 cppunit --universal
+38 davidchall/hep/madgraph5_amcatnlo
+38 dirk/quickhook/quickhook
+38 git --with-gettext
+38 groovy --with-invokedynamic
+38 gst-plugins-ugly --with-x264
+38 homebrew/boneyard/gptfdisk
+38 homebrew/emacs/tablist
+38 homebrew/php/php55 --with-cgi
+38 homebrew/php/php56 --with-apache --without-ldap
+38 homebrew/php/php56-memcache --devel
+38 homebrew/php/php70 --with-pear --without-apache
+38 homebrew/php/php70 --with-postgresql --with-apache
+38 homebrew/php/php70-memcached
+38 homebrew/php/phpmyadmin3
+38 homebrew/science/gmt4
+38 homebrew/science/liblbfgs
+38 homebrew/science/opencv3 --HEAD --with-contrib --with-python3
+38 homebrew/science/opencv3 --HEAD --with-contrib --with-tbb --with-ffmpeg
+38 homebrew/science/opencv3 --with-contrib --c++11 --with-python3
+38 homebrew/science/opencv3 --with-contrib --with-tbb
+38 homebrew/science/rna-star
+38 homebrew/science/vtk --with-qt5
+38 homebrew/x11/pgplot
+38 instantclienttap/instantclient/instantclient-basic11
+38 jed
+38 josegonzalez/php/php55-apcu
+38 josegonzalez/php/php70-redis
+38 librasterlite
+38 libwpd
+38 lorem
+38 macvim --HEAD --with-lua --with-luajit
+38 macvim --HEAD --with-override-system-vim
+38 mariadb --devel
+38 mrtazz/oss/restclient-cpp
+38 nginx --devel --with-http2
+38 percona-xtrabackup
+38 pivotal/tap/tcserver
+38 pmccabe
+38 presto
+38 samueljohn/python/pillow
+38 tcc
+38 tclap
+38 vamp-plugin-sdk
+38 weighttp
+38 wolfssl
+38 wput
+38 zegervdv/zathura/zathura-pdf-poppler
+37 aescrypt
+37 amiaopensource/amiaos/vrecord
+37 bgrep
+37 dartsim/dart/dartsim6
+37 ettercap --with-gtk
+37 foolscrate
+37 fwknop
+37 gdb --with-all-targets
+37 gimme
+37 git-plus
+37 goto
+37 gsoap
+37 hexcurse
+37 homebrew/games/angband
+37 homebrew/php/php53-intl
+37 homebrew/php/php56-libevent
+37 homebrew/php/php71-pcntl
+37 homebrew/science/blat
+37 homebrew/science/gap
+37 homebrew/science/geant4
+37 homebrew/science/opencv3 --with-contrib --with-java
+37 homebrew/tex/rubber
+37 homebrew/versions/apache-spark15
+37 homebrew/versions/gcc45
+37 jmespath/jmespath/jp
+37 jonof/kenutils/pngout
+37 josegonzalez/php/php56-apcu
+37 ksh
+37 larsimmisch/avr/avr-libc
+37 libpgm
+37 libquicktime
+37 libzdb
+37 lilv
+37 mackerelio/mackerel-agent/mackerel-agent
+37 mercury
+37 modman
+37 mpg321
+37 mypy
+37 petere/postgresql/postgresql-9.3
+37 png2ico
+37 railwaycat/emacsmacport/emacs-mac --HEAD --with-modern-icon --with-imagemagick
+37 rene-dev/sigrok/libserialport --HEAD
+37 robotastic/hackrf/rtlsdr --HEAD
+37 shopify/shopify/presto-jdbc
+37 sratom
+37 tarantool --HEAD
+37 vim --with-lua --with-tcl --with-luajit
+37 xiw/jos/i386-jos-elf-gcc
+36 aften
+36 andreas-jonsson/tap/openwar
+36 avra
+36 cavaliercoder/dmidecode/dmidecode
+36 chruby-fish
+36 coda-cli
+36 d12frosted/emacs-plus/emacs-plus --devel --with-cocoa --with-spacemacs-icon --with-gnutls --with-imagemagick
+36 docbook2x
+36 emacs --with-cocoa --with-dbus --with-gnutls --with-imagemagick
+36 engine_pkcs11
+36 ethcore/ethcore/parity --master
+36 freealut
+36 galen
+36 git-tf
+36 gtk-gnutella
+36 homebrew/completions/wpcli-completion
+36 homebrew/dupes/libedit
+36 homebrew/games/nethack4
+36 homebrew/php/php54 --with-homebrew-apxs
+36 homebrew/php/php55-geoip
+36 homebrew/php/php56 --with-apache --with-homebrew-curl
+36 homebrew/php/php56 --with-postgresql --with-homebrew-apxs --with-pdo-oci
+36 homebrew/python/numpy --with-python3 --with-openblas
+36 homebrew/science/augustus
+36 homebrew/science/datamash
+36 homebrew/science/exonerate
+36 homebrew/science/g2o
+36 homebrew/science/infernal
+36 homebrew/science/opencv --HEAD --with-ffmpeg
+36 homebrew/science/scalapack --with-openblas
+36 homebrew/science/velvet
+36 imagemagick --with-pango
+36 josegonzalez/php/php56-phalcon
+36 libtecla
+36 libxml2 --universal
+36 mitchty/fruitstrap/fruitstrap --HEAD
+36 nwoolls/xgminer/uthash
+36 orbit
+36 sanelson/freecad/pivy
+36 subnetcalc
+36 suricata
+36 t1lib
+36 vault-cli
+36 xiw/jos/i386-jos-elf-binutils
+35 aspnet/k/kvm
+35 boost-python --c++11 --with-python3
+35 caryll/tap/otfcc-mac64
+35 compose2kube
+35 dc3dd
+35 delta
+35 dosfstools
+35 ffmpeg --with-faac --with-libvorbis --with-libvpx
+35 ffmpeg --with-fdk-aac --with-x265
+35 ffmpeg --with-x265 --with-faac
+35 gdb --with-python
+35 git --with-blk-sha1
+35 git --with-blk-sha1 --with-brewed-openssl --with-brewed-curl --with-brewed-svn --with-pcre --with-gettext
+35 git-archive-all
+35 gpsd
+35 graphicsmagick --with-webp
+35 harfbuzz --with-cairo --with-graphite2
+35 homebrew/apache/mod_wsgi --with-homebrew-python
+35 homebrew/completions/boot2docker-completion
+35 homebrew/completions/fabric-completion
+35 homebrew/completions/rustc-completion
+35 homebrew/dupes/ncurses --universal
+35 homebrew/emacs/inf-ruby
+35 homebrew/fuse/simple-mtpfs
+35 homebrew/gui/inkscape --with-poppler
+35 homebrew/nginx/set-misc-nginx-module
+35 homebrew/php/phan
+35 homebrew/php/php54 --with-postgresql
+35 homebrew/php/php56-gmagick
+35 homebrew/php/sqlformat
+35 homebrew/science/blasr
+35 homebrew/science/minced
+35 homebrew/science/opencv --with-qt
+35 imagemagick --with-librsvg --with-webp
+35 inspircd
+35 josegonzalez/php/php56-pdo-pgsql
+35 latexml
+35 launch
+35 libdca
+35 libproxy
+35 macvim --without-python --with-python3
+35 minimodem
+35 mkcue
+35 ngspice
+35 pdns
+35 percol
+35 python --with-berkeley-db4
+35 restic/restic/restic
+35 salilab/salilab/hdf5-1816
+35 samueljohn/python/matplotlib
+35 scala --devel
+35 scour
+35 shiboken --with-python3
+35 spim
+35 sqliteman
+35 stlink --HEAD
+35 virtuoso
+35 webcamoid
+35 willbryant/verm/verm
+35 wireshark --with-qt5 --with-lua
+35 wysenynja/bitcoin/bitcoind
+35 yank
+34 anttweakbar
+34 cdparanoia
+34 cloudfoundry/tap/bosh-init
+34 cocoapods --devel
+34 couchpotatoserver
+34 cracklib
+34 daemon
+34 dhcping
+34 discoteq/discoteq/flock
+34 emacs --with-cocoa --with-ctags --with-dbus --with-gnutls --with-imagemagick --with-mailutils
+34 file-roller
+34 git-gerrit
+34 grammarly/tap/rocker-compose
+34 graphviz --with-pango
+34 gtk+ --with-quartz-relocation --with-jasper
+34 hamlib
+34 haraldf/kf5/kf5-karchive
+34 homebrew/apache/mod_bonjour
+34 homebrew/php/adminer
+34 homebrew/php/drupalconsole
+34 homebrew/php/php56-sphinx
+34 homebrew/php/php70 --with-debug --without-apache
+34 homebrew/php/php70-ev
+34 homebrew/science/mlpack
+34 homebrew/science/mummer
+34 homebrew/science/opencv --with-cuda
+34 homebrew/science/opencv3 --without-numpy --with-python3
+34 homebrew/versions/mongodb26 --with-openssl
+34 i2p
+34 imagemagick --with-fftw
+34 imagemagick --with-little-cms2
+34 jansson --universal
+34 libtermkey
+34 mktorrent
+34 mono --without-fsharp
+34 mutt --with-s-lang
+34 railwaycat/emacsmacport/emacs-mac --HEAD --with-spacemacs-icon --with-gnutls
+34 rtags --HEAD
+34 staticfloat/juliatranslated/cmake
+34 streamripper
+34 tholu/tap/subversion18 --with-unicode-path
+34 tintin
+34 tools8 --HEAD
+34 xqilla
+34 zeroc-ice/tap/icetouch36
+34 zzz
+33 ant --with-ivy
+33 audiofilter/spuc/spuce
+33 cdpr
+33 deheader
+33 devtodo
+33 dnstwist
+33 ecasound
+33 erlang --with-fop
+33 fcitx-remote-for-osx --with-input-method=
+33 fftw --with-mpi
+33 git-fixup
+33 gtk-engines
+33 gtk+3 --with-quartz-relocation --with-jasper
+33 haraldf/kf5/kf5-ktexteditor
+33 homebrew-tranquil
+33 homebrew/apache/mod_wsgi --with-homebrew-httpd24
+33 homebrew/apache/mod_wsgi --with-homebrew-httpd24 --with-homebrew-python
+33 homebrew/emacs/helm
+33 homebrew/emacs/pandoc-mode
+33 homebrew/php/php71-swoole
+33 homebrew/python/mpi4py
+33 homebrew/science/circos
+33 homebrew/science/gap --with-packages
+33 homebrew/science/hisat2
+33 homebrew/science/octave --HEAD --without-docs --with-gui
+33 homebrew/science/octave --without-docs
+33 homebrew/science/opencv --with-tbb --with-opengl
+33 homebrew/science/opencv3 --with-ffmpeg --with-python3
+33 homebrew/science/trinity
+33 homebrew/science/vips --with-imagemagick --with-webp
+33 homebrew/versions/unison240
+33 homebrew/versions/varnish3
+33 icu4c --universal
+33 josegonzalez/php/php56-mongodb
+33 josegonzalez/php/php70-imagick
+33 jsc
+33 jsvc
+33 laszip
+33 launch4j
+33 libebml --c++11
+33 libngspice --HEAD
+33 libtins
+33 llvm --universal
+33 lrdf
+33 macvim --HEAD --with-override-system-vim --with-lua --with-luajit --with-python3
+33 mopidy/mopidy/libspotify
+33 mp3val
+33 mrtg
+33 mspdebug
+33 neomutt/neomutt/neomutt --with-sidebar-patch --with-notmuch-patch
+33 neonichu/formulae/chswift
+33 px4/px4/gcc-arm-none-eabi-54
+33 pygtkglext
+33 python3 --with-tcl-tk --with-sphinx-doc
+33 qemu --with-vde --with-sdl --with-libssh2
+33 rig
+33 staticfloat/juliatranslated/fftw
+33 vim --with-override-system-vi --with-client-server --with-lua
+33 zplug --with-zsh
+32 altkatz/gcc_cross_compilers/i386-elf-binutils
+32 curalate/tap/curacmd
+32 dockviz
+32 exiftags
+32 ffmbc
+32 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-openssl --with-libssh --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-libvidstab --with-x265 --with-libsoxr --with-webp --with-zeromq --with-snappy --with-faac --with-fontconfig --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r --with-libcaca --with-libbluray --with-libbs2b
+32 flvmeta
+32 galaxyproject/tap/planemo
+32 git-sh
+32 git-utils
+32 go --devel
+32 haraldf/kf5/kf5-kdoctools
+32 homebrew/emacs/async-emacs
+32 homebrew/emacs/javaimp
+32 homebrew/nginx/nginx-full --with-stream
+32 homebrew/php/php53-memcache
+32 homebrew/php/php53-redis
+32 homebrew/php/php55-gmp
+32 homebrew/php/php56 --with-apache --with-pear
+32 homebrew/php/php56 --without-fpm
+32 homebrew/science/adol-c
+32 homebrew/science/barrnap
+32 homebrew/science/cantera --with-matlab=
+32 homebrew/science/clustal-omega
+32 homebrew/science/etsf_io
+32 homebrew/science/poretools
+32 homebrew/science/salmon
+32 homebrew/science/wcslib
+32 homebrew/versions/gcc44
+32 homebrew/versions/hive12
+32 homebrew/x11/x3270
+32 imapfilter
+32 jhawthorn/fzy/fzy
+32 ledit
+32 liblinear
+32 llvm --with-lldb
+32 mcabber
+32 netcat6
+32 node --with-debug --with-full-icu
+32 osgeo/osgeo4mac/grass-70
+32 pastebinit
+32 prettyping
+32 profanity --HEAD --with-terminal-notifier
+32 rene-dev/sigrok/libsigrok --HEAD --with-libserialport
+32 s3sync
+32 shopify/shopify/presto-cli
+32 snzip
+32 sqlitebrowser
+32 ssed
+32 vim --with-override-system-vi --with-lua --with-mzscheme --with-tcl --with-luajit
+32 vim --with-override-system-vi --without-nls
+32 vim --with-python3 --with-lua --with-tcl --with-luajit
+31 amqp-cpp
+31 aqbanking
+31 audiofile
+31 aurora-cli
+31 boost --with-icu4c --without-single --with-mpi --c++11
+31 buildifier --HEAD
+31 colinstein/imgcat/imgcat
+31 curl --with-libidn --with-rtmpdump --with-libssh2 --with-c-ares --with-gssapi --with-libmetalink --with-libressl --with-nghttp2
+31 curlpp
+31 dcadec
+31 derekkwok/python/python26
+31 desk
+31 djview4
+31 dvdbackup
+31 emacs --devel
+31 emacs --with-cocoa --with-ctags --with-modules --with-dbus --with-gnutls --with-imagemagick --with-mailutils
+31 emacs --with-cocoa --with-modules --with-dbus --with-gnutls --with-imagemagick --with-mailutils
+31 ffmpeg --with-ffplay --with-faac
+31 gcc --with-java --with-all-languages --with-nls --with-jit
+31 gecode
+31 get-flash-videos
+31 gexiv2
+31 ghex
+31 git-now
+31 gnuplot --with-pdflib-lite --with-x11
+31 graphicsmagick --with-quantum-depth-32
+31 gtk+ --with-quartz-relocation
+31 homebrew/emacs/tern
+31 homebrew/games/frotz
+31 homebrew/gui/gsmartcontrol
+31 homebrew/gui/klavaro
+31 homebrew/nginx/mp4-h264-nginx-module
+31 homebrew/php/pdepend
+31 homebrew/php/php56 --with-debug --with-imap --without-apache
+31 homebrew/php/php56-snmp
+31 homebrew/php/php70-gearman
+31 homebrew/php/phpcpd
+31 homebrew/science/hdf5 --with-fortran2003 --with-mpi --with-fortran
+31 homebrew/versions/subversion18 --universal --with-java
+31 libfaketime
+31 libmpeg2
+31 log4cpp
+31 macvim --with-override-system-vim --with-luajit --with-python3
+31 movgrab
+31 mtg/essentia/gaia --HEAD
+31 mysql --with-test --with-embedded --with-archive-storage-engine --with-blackhole-storage-engine --with-local-infile --with-debug
+31 pdnsrec
+31 pothosware/pothos/soapyremote
+31 python --with-tcl-tk --with-berkeley-db4
+31 railwaycat/emacsmacport/emacs-mac --with-gnutls --with-imagemagick
+31 rbenv-ctags
+31 unp
+31 vim --with-client-server --with-lua --with-luajit
+31 vim --with-override-system-vi --with-client-server
+31 wireshark --with-gtk+3 --with-qt5
+30 argus-clients
+30 atk --universal
+30 concurrencykit
+30 cryptol
+30 davidchall/hep/rivet
+30 derby
+30 drytools/repo/sifu
+30 emacs --devel --with-cocoa --with-gnutls
+30 emacs --HEAD --with-cocoa --with-gnutls
+30 etl
+30 frescobaldi
+30 gcc --with-java
+30 gfd-dennou-club/dennou/gtool5
+30 gnuplot --with-pdflib-lite
+30 goochjj/custom/bash
+30 gst-validate
+30 gtk+3 --with-quartz-relocation
+30 homebrew/dupes/bc
+30 homebrew/emacs/pdf-tools
+30 homebrew/games/dosbox-x
+30 homebrew/games/pachi
+30 homebrew/nginx/push-stream-nginx-module
+30 homebrew/php/boris
+30 homebrew/php/box
+30 homebrew/php/php70 --with-apache --without-ldap
+30 homebrew/php/php70-ds
+30 homebrew/php/php71-gmagick
+30 homebrew/php/php71-tidy
+30 homebrew/python/matplotlib --with-cairo
+30 homebrew/science/aragorn
+30 homebrew/science/parallel-netcdf
+30 homebrew/science/suite-sparse --with-openblas
+30 homebrew/science/xrmc
+30 homebrew/versions/gcc6 --with-java --with-all-languages --with-nls --with-jit
+30 homebrew/versions/kibana41
+30 hostess
+30 icecube-spno/icecube/sprng2
+30 itpp
+30 iveney/mocha/realpath
+30 josegonzalez/php/php55-mongo
+30 jsdoc-toolkit
+30 libbtbb
+30 libmatroska --c++11
+30 libvirt --without-libvirtd
+30 mpage
+30 mpv --with-bundle --with-libcaca --with-libdvdread --with-libdvdnav --with-libbluray --with-libaacs --with-vapoursynth
+30 ne
+30 nutcracker
+30 nuttcp
+30 nwoolls/xgminer/cgminer
+30 passpie
+30 pdf2json
+30 pg_top
+30 pipes-sh
+30 pixman --universal
+30 prosody/prosody/prosody
+30 psql2csv
+30 pyvim
+30 resty
+30 scalariform
+30 sdl2_ttf --universal
+30 shyiko/ktlint/ktlint
+30 sqlite --with-fts
+30 surfraw
+30 thrift --with-java
+30 typespeed
+30 umlet
+30 vim --HEAD --with-override-system-vi --with-luajit
+30 vim --with-client-server --with-python3 --with-lua --with-luajit
+30 xiw/jos/i386-jos-elf-gdb
+29 apache-opennlp
+29 apr-util --with-openldap
+29 batik
+29 browser
+29 cdk
+29 clutter-gtk
+29 coin-or-tools/coinor/cgl
+29 colorsvn
+29 commandbox
+29 danielbayley/ery/woff2sfntsfnt2woff
+29 detox
+29 ecomerc/tab/xscreenshot
+29 ffmpeg --with-ffplay --with-fdk-aac
+29 ffmpeg --with-libvidstab
+29 gdal --with-complete --with-unsupported
+29 git --with-brewed-openssl --with-brewed-curl --with-brewed-svn
+29 glui
+29 gnuplot --with-cairo --with-pdflib-lite
+29 gst-plugins-good --with-libpng --with-libvpx
+29 gtksourceviewmm3
+29 haraldf/kf5/kf5-kconfig
+29 homebrew/emacs/cython-mode
+29 homebrew/emacs/haskell-mode
+29 homebrew/emacs/php-mode
+29 homebrew/fuse/xmount
+29 homebrew/games/advancemame
+29 homebrew/games/brogue
+29 homebrew/php/foreman
+29 homebrew/php/php-build
+29 homebrew/php/php54 --without-apache
+29 homebrew/php/php56 --with-apache --with-homebrew-apxs
+29 homebrew/php/php56-thrift
+29 homebrew/php/php70 --with-pear --with-thread-safety
+29 homebrew/php/php70 --with-postgresql --with-imap
+29 homebrew/php/php70-lzf
+29 homebrew/php/phpctags
+29 homebrew/science/nest --with-python
+29 homebrew/science/primer3
+29 homebrew/science/r --with-openblas --with-pango
+29 homebrew/science/vtk --c++11 --with-qt
+29 homebrew/versions/phantomjs198
+29 homebrew/versions/sonar4
+29 homebrew/versions/thrift090
+29 hukl/tap/hostmux
+29 imagemagick --with-x11 --with-ghostscript
+29 jboss-as
+29 josegonzalez/php/php71-mcrypt
+29 libpostal
+29 libxml++3
+29 macvim-dev/macvim/macvim
+29 man2html
+29 mapnik --with-gdal --with-postgresql --with-cairo
+29 memcached --with-sasl
+29 mopidy/mopidy/python-pycparser
+29 nyoho/libsoil/libsoil
+29 open-ocd --HEAD
+29 pacvim
+29 paperkey
+29 pngpaste
+29 protobuf --without-python
+29 pugixml
+29 qjackctl
+29 rdfind
+29 rene-dev/sigrok/pulseview --HEAD
+29 salilab/salilab/modeller
+29 smartling
+29 snmsts/roswell/roswell
+29 thrift --HEAD
+29 ttfautohint --with-qt
+29 unittest-cpp
+29 vim --HEAD --with-override-system-vi --with-lua
+29 xiw/jos/i386-jos-elf-qemu --HEAD
+29 zeroc-ice/tap/berkeley-db53
+28 algernon
+28 apachetop
+28 aws-keychain
+28 boost --with-mpi
+28 briss
+28 bulk_extractor
+28 Carthage
+28 david0/audio/calf
+28 dfc
+28 drfill/liquidsoap/ocaml-pcre
+28 dvdauthor
+28 erlang --with-dirty-schedulers
+28 eventlog
+28 fftw --with-mpi --with-openmp
+28 gentex-cmake
+28 git --HEAD
+28 git-integration
+28 haraldf/kf5/kf5-ki18n
+28 homebrew/apache/mod_security
+28 homebrew/fuse/btfs
+28 homebrew/games/stone-soup
+28 homebrew/games/xboard
+28 homebrew/php/php53-memcached
+28 homebrew/php/php56 --with-postgresql --without-apache
+28 homebrew/php/php70 --with-postgresql --with-homebrew-curl --with-thread-safety
+28 homebrew/php/php71-geoip
+28 homebrew/science/bioawk
+28 homebrew/science/butterflow
+28 homebrew/science/mcl
+28 homebrew/science/openblas --with-openmp
+28 homebrew/science/root6 --with-xrootd
+28 homebrew/science/scotch5
+28 homebrew/science/ucsc-genome-browser
+28 homebrew/science/vips --with-webp
+28 homebrew/versions/gcc48 --with-all-languages
+28 homebrew/versions/kibana44
+28 homebrew/versions/solr55
+28 homebrew/x11/mesalib-glw
+28 imagemagick --with-librsvg --with-ghostscript
+28 ipmiutil
+28 jigdo
+28 josegonzalez/php/php54 --with-debug --with-imap
+28 josegonzalez/php/php55 --with-debug --with-imap --without-apache
+28 josegonzalez/php/php55-memcached
+28 libpcl
+28 libre
+28 librsvg --with-gtk 3
+28 libu2f-host
+28 mat
+28 mfcuk
+28 mjsteger/grpc/google-protobuf
+28 ncmpcpp --with-outputs --with-visualizer --with-clock
+28 ocrad
+28 ome/alt/omero52 --with-cpp --with-nginx
+28 openconnect --with-stoken
+28 osgeo/osgeo4mac/gdal2
+28 osx-cross/avr/avr-gdb
+28 picolisp
+28 plustache
+28 python3 --HEAD
+28 qt --with-qt3support --with-dbus
+28 shopify/shopify/redshift-ssl
+28 simh
+28 smpeg2
+28 sqliteodbc
+28 sxmichaels/tap/menubar-toggle
+28 urweb
+28 vim --with-client-server --with-python3 --with-lua
+28 vim --with-lua --with-mzscheme --with-luajit
+28 vim --without-perl --without-python
+28 wabbitsign
+28 yash
+28 zsync
+27 adilinden/asterisk/asterisk
+27 bib-tool
+27 cairo --universal
+27 calabash
+27 chuck
+27 code-hex/pget/pget
+27 curl --with-c-ares --with-nghttp2
+27 daemontools
+27 dart-lang/dart/dart --devel --with-dartium
+27 docx2txt
+27 drake
+27 dshb
+27 emacs --with-cocoa --with-imagemagick --with-mailutils
+27 feedgnuplot
+27 ffmpeg --with-rtmpdump --with-openssl
+27 gobject-introspection --universal
+27 hirocaster/mozc-emacs-helper/mozc-emacs-helper
+27 homebrew/games/easyrpg-player
+27 homebrew/games/gearboy
+27 homebrew/gui/hexchat --with-python
+27 homebrew/gui/xchat
+27 homebrew/nginx/accesskey-nginx-module
+27 homebrew/nginx/mruby-nginx-module
+27 homebrew/php/php54-phalcon
+27 homebrew/php/php55-pdo-dblib
+27 homebrew/php/php55-propro
+27 homebrew/php/php56 --with-homebrew-curl --with-pear
+27 homebrew/php/php70-ssh2
+27 homebrew/php/php71-oauth
+27 homebrew/science/amos
+27 homebrew/science/cantera --with-matlab= --without-sundials
+27 homebrew/science/clustal-w
+27 homebrew/science/dealii
+27 homebrew/science/edirect
+27 homebrew/science/lie
+27 homebrew/science/nest
+27 homebrew/science/opencv --with-quicktime
+27 homebrew/science/opencv --without-python
+27 homebrew/science/r --with-openblas --with-pango --with-valgrind --with-x11
+27 homebrew/science/shark
+27 homebrew/science/stringtie
+27 homebrew/science/vips --without-orc --without-libgsf --without-fftw --without-little-cms2 --without-pango --without-libexif --without-gobject-introspection --without-pygobject3 --without-python
+27 homebrew/science/vtk --with-matplotlib --with-qt
+27 homebrew/versions/solr4
+27 homebrew/versions/solr54
+27 imagemagick --HEAD --with-fftw --with-hdri --with-quantum-depth-32 --with-fontconfig --with-libwmf --with-librsvg --with-liblqr --with-ghostscript --with-webp --with-openjpeg
+27 imagemagick --with-fontconfig --with-ghostscript --with-webp
+27 imgur-screenshot
+27 internetarchive
+27 ipv6calc
+27 josegonzalez/php/php70-igbinary --HEAD
+27 jsmin
+27 kitchen-sync --without-mysql
+27 larsimmisch/avr/avr-gcc
+27 libass --HEAD
+27 libav --with-sdl --with-theora --with-libvorbis
+27 libbdplus
+27 libident
+27 makeicns
+27 moreutils --without-parallel
+27 mp3check
+27 mtg/essentia/gaia
+27 nacl
+27 ngircd
+27 norm
+27 octoblu/tools/testify
+27 ode
+27 postgresql --without-tcl
+27 pothosware/pothos/pothos
+27 ptex
+27 rbenv-whatis
+27 riscv/riscv/riscv-fesvr
+27 staticfloat/juliadeps/fontconfig
+27 staticfloat/juliatranslated/gsl1
+27 swig --universal
+27 textql
+27 vde
+27 vmtouch
+27 weechat --with-perl --with-ruby --with-python
+27 wine --devel --with-libgsm
+27 xmltoman
+27 yelp-tools
+26 applicaster/tap/zapptool
+26 appscale-tools
+26 aspell --with-lang-de --with-lang-en
+26 cayley
+26 cdecl
+26 cflow
+26 depqbf
+26 dnsperf
+26 dvtm
+26 emacs --with-gnutls
+26 ffmpeg --with-libass --with-ffplay --with-fdk-aac --with-x265 --with-freetype --with-theora --with-libvorbis --with-libvpx --with-opus
+26 fizsh
+26 geoserver
+26 gkrellm
+26 gnu-units --with-default-names
+26 gnuplot --with-cairo --with-qt5
+26 gnuplot --with-tex
+26 graphviz --with-bindings --with-app --with-freetype
+26 graphviz --with-freetype
+26 gwt
+26 haraldf/kf5/kf5-kwindowsystem
+26 haxe --HEAD
+26 homebrew/completions/cargo-completion
+26 homebrew/completions/kitchen-completion
+26 homebrew/emacs/powerline-emacs
+26 homebrew/games/cataclysm
+26 homebrew/games/fuego
+26 homebrew/games/liblcf
+26 homebrew/games/pioneer
+26 homebrew/games/wesnoth
+26 homebrew/nginx/nginx-full --with-headers-more-module
+26 homebrew/php/libmustache
+26 homebrew/php/php54-mongo
+26 homebrew/php/php54-opcache
+26 homebrew/php/php55-raphf
+26 homebrew/php/php55-tidy
+26 homebrew/php/php56 --with-homebrew-curl --without-apache --without-bz2 --without-fpm --without-ldap --without-mysql
+26 homebrew/php/php56-v8js
+26 homebrew/php/php71-uuid
+26 homebrew/science/clinfo
+26 homebrew/science/exabayes
+26 homebrew/science/flint
+26 homebrew/science/geda-gaf
+26 homebrew/science/opencv3 --HEAD --with-contrib --with-tbb --with-ffmpeg --with-python3
+26 homebrew/tex/pdfjam
+26 homebrew/versions/gnuplot4
+26 homebrew/versions/grails24
+26 homebrew/x11/geomview
+26 ipinfo
+26 jubatus/jubatus/jubatus-core
+26 jzelinskie/duckdns/duckdns
+26 karan/karan/gitignore
+26 lablgtk
+26 launchdns
+26 libantlr3c
+26 libglademm
+26 libunwind-headers
+26 menhir
+26 mysql --with-local-infile
+26 neomutt/neomutt/neomutt --with-sidebar-patch
+26 nghttp2 --with-examples
+26 ome/alt/zeroc-ice35 --with-python
+26 opentsdb
+26 osgeo/osgeo4mac/qgis-28 --without-grass
+26 petere/postgresql/postgresql-9.5
+26 poco --c++11
+26 pothosware/pothos/pothosblocks
+26 pothosware/pothos/pothoscomms
+26 rbenv-use
+26 rene-dev/sigrok/libsigrokdecode
+26 ruby --with-doc --with-tcltk --with-gdbm --with-gmp --with-libffi
+26 safe-rm
+26 samdmarshall/formulae/nslocalizer
+26 scw
+26 slrn
+26 sntop
+26 spin
+26 suil
+26 utimer
+26 vim --with-lua --with-mzscheme --with-tcl --with-luajit
+26 vim --with-override-system-vi --without-perl --without-python --without-ruby
+26 xml-coreutils
+26 xmp
+26 zeromq --HEAD
+26 zint
+25 aces_container
+25 athena-oss/tap/athena
+25 aubio --with-python
+25 awstools
+25 cc65
+25 cdrdao
+25 clhep
+25 cosmo0920/mingw_w64/i686-w64-mingw32-gcc
+25 coturn
+25 ctags --HEAD
+25 docker --with-experimental
+25 elixirscript
+25 fftw --with-fortran --universal --with-mpi --with-openmp
+25 fftw --with-fortran --with-openmp
+25 gdub
+25 gemnasium/gemnasium/gemnasium-toolbelt
+25 git --with-brewed-openssl --with-brewed-curl --with-brewed-svn --with-pcre --with-gettext
+25 grpc/grpc/google-protobuf --HEAD
+25 gst-editing-services
+25 haraldf/kf5/kf5-kcodecs
+25 haraldf/kf5/kf5-kcoreaddons
+25 haraldf/kf5/kf5-kdbusaddons
+25 haraldf/kf5/kf5-kguiaddons
+25 haraldf/kf5/kf5-kitemviews
+25 hhatto/pgmagick/pgmagick
+25 homebrew/binary/kindlegen
+25 homebrew/boneyard/phash
+25 homebrew/completions/spring-completion
+25 homebrew/emacs/homebrew-mode
+25 homebrew/fuse/fuse-zip
+25 homebrew/gui/gtk-chtheme
+25 homebrew/php/php53 --with-homebrew-apxs
+25 homebrew/php/php55-ssh2
+25 homebrew/php/php56-sodium
+25 homebrew/php/phpunit-skeleton-generator
+25 homebrew/python/vpython
+25 homebrew/science/nanopolish
+25 homebrew/science/ncl
+25 homebrew/science/p4est
+25 homebrew/science/qrupdate --with-openblas
+25 homebrew/science/snpeff
+25 homebrew/versions/drush5
+25 homebrew/versions/libpqxx3
+25 homebrew/versions/swig2
+25 ike-scan
+25 imagemagick --with-fftw --with-fontconfig --with-librsvg
+25 imagemagick --with-fftw --with-hdri --with-openmp --with-perl --with-quantum-depth-8 --with-quantum-depth-16 --with-quantum-depth-32 --with-x11 --with-fontconfig --with-little-cms --with-little-cms2 --with-libwmf --with-librsvg --with-liblqr --with-openexr --with-ghostscript --with-webp --with-pango
+25 josegonzalez/php/php-version
+25 kylef/formulae/podenv
+25 libcapn
+25 libevent --devel
+25 libhid
+25 libqalculate
+25 llvm --HEAD --with-python
+25 llvm --with-toolchain
+25 logtalk
+25 mediatomb
+25 mopidy/mopidy/python-spotify
+25 mp3blaster
+25 mpv --HEAD --with-bundle --with-vapoursynth
+25 mpv --with-bundle --with-libarchive --with-libcaca --with-libdvdread --with-libdvdnav --with-libbluray --with-libaacs --with-vapoursynth --with-uchardet --with-x11
+25 osslsigncode
+25 petere/postgresql/postgresql-9.4
+25 puddletag
+25 reattach-to-user-namespace --HEAD
+25 riemann-client
+25 riscv/riscv/riscv-gcc
+25 roswell --HEAD
+25 sbcl --with-ldb
+25 scrypt
+25 speex --universal
+25 sphinx --with-postgresql
+25 srtp
+25 tiff2png
+25 uncrustify --HEAD
+25 vim --HEAD --with-lua --without-perl --without-ruby --with-luajit
+25 vim --without-nls
+25 watsonbox/cmu-sphinx/cmu-sphinxbase
+25 xplanet
+24 abduco
+24 agiliopadua/extras/xcrysden
+24 anjuta
+24 apgdiff
+24 asciidoc --with-docbook-xsl
+24 boost --with-icu4c --without-single --with-mpi
+24 boxes
+24 crosstool-ng --with-grep
+24 ctl
+24 cvsps
+24 davidchall/hep/herwig
+24 ebook-tools
+24 emacs --HEAD --with-cocoa --with-imagemagick
+24 eralchemy
+24 ffmpeg --with-faac --with-libvpx
+24 ffmpeg --with-ffplay --with-libvpx
+24 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r
+24 fftw --universal
+24 flawfinder
+24 format-udf
+24 freetds --universal
+24 freetds --with-msdblib
+24 fsevents-tools
+24 gcc --HEAD
+24 gdal --HEAD --without-python
+24 gnome-themes-standard
+24 gnuplot --with-tex --with-aquaterm --with-x11
+24 gnustep-make
+24 gnutls --with-guile
+24 google-benchmark
+24 gosu
+24 haraldf/kf5/kf5-kauth
+24 haraldf/kf5/kf5-kiconthemes
+24 haraldf/kf5/kf5-kwidgetsaddons
+24 haraldf/kf5/kf5-sonnet
+24 hhu-stups/prob/prob-nightly
+24 homebrew/boneyard/kubernetes-helm
+24 homebrew/games/myman
+24 homebrew/nginx/nginx-full --with-lua-module --with-set-misc-module
+24 homebrew/php/php53 --with-pear
+24 homebrew/php/php54-pdo-pgsql
+24 homebrew/php/php55 --with-gmp --with-debug --with-imap --with-libmysql
+24 homebrew/php/php55-swoole
+24 homebrew/php/php56 --without-apache --without-mysql
+24 homebrew/php/php56-grpc
+24 homebrew/php/php70-couchbase
+24 homebrew/science/ess
+24 homebrew/science/octave --without-hdf5
+24 homebrew/science/opencv --with-qt --with-tbb --with-jasper --with-ffmpeg
+24 homebrew/science/opencv --with-qt --with-tbb --without-numpy
+24 homebrew/science/opencv3 --with-tbb
+24 homebrew/science/r --with-openblas --with-pango --with-x11
+24 homebrew/science/shogun
+24 homebrew/science/vtk --c++11 --with-matplotlib --with-qt5
+24 homebrew/versions/glfw3 --universal
+24 homebrew/versions/grails25
+24 homebrew/versions/isl012
+24 homebrew/versions/srtp15
+24 homebrew/x11/nedit
+24 homeshick
+24 httping --with-fftw
+24 imagemagick --with-x11 --with-librsvg
+24 ioping
+24 irssi --with-dante
+24 jflex
+24 json-fortran
+24 kitchen-sync
+24 kubernetes-cli --devel
+24 ldns --with-python
+24 lensfun
+24 libbladerf
+24 libcdr
+24 libuv --HEAD
+24 macvim --without-python
+24 mixbook/adobe-air/adobe-air-sdk
+24 mkvalidator
+24 mongrel2
+24 mp3wrap
+24 mpv --with-bundle --with-libaacs
+24 mpv --with-libcaca
+24 mvtools --HEAD
+24 nave
+24 ome/alt/bioformats52
+24 pkcs11-helper
+24 plan9port
+24 pothosware/pothos/pothosgui
+24 procyon-decompiler
+24 protobuf --universal --c++11
+24 rcmdnk/rcmdnkpac/sentaku
+24 redland
+24 rsanchez/craft-cli/craft-cli
+24 sbcl --with-internal-xref --with-ldb
+24 sidaf/pentest/libnl
+24 sile
+24 sqlcipher --with-fts
+24 tnef
+24 tpp
+24 trafshow
+24 upx --HEAD
+24 veg/veg/tn93
+24 voldemort
+24 webalizer
+24 xx-net
+24 yaf
+23 agiliopadua/extras/packmol
+23 calcurse
+23 ccd2iso
+23 charm-tools
+23 cjdns
+23 cln
+23 cmus --HEAD
+23 cpprestsdk
+23 curl --with-libidn --with-libssh2 --with-nghttp2
+23 curl --with-libidn --with-nghttp2
+23 cxxtest
+23 d12frosted/emacs-plus/emacs-plus --with-cocoa --with-spacemacs-icon --with-gnutls --with-librsvg --with-imagemagick
+23 dar
+23 david0/audio/calf --HEAD
+23 davidchall/hep/fastjet
+23 dcd
+23 diffoscope
+23 dsocks
+23 eiffelstudio
+23 emacs --with-cocoa --with-modules
+23 exenv
+23 ffmpeg --HEAD --with-libass --with-ffplay --with-fdk-aac --with-x265 --with-freetype --with-libvorbis --with-libvpx --with-opus
+23 ffmpeg --with-fdk-aac --with-libvorbis --with-libvpx
+23 flac --universal
+23 gdk-pixbuf --universal
+23 git --with-blk-sha1 --with-persistent-https --with-pcre --with-gettext
+23 git-open
+23 glslang
+23 gnuplot --with-cairo --with-aquaterm
+23 gnuplot --with-cairo --with-wxmac
+23 gpa
+23 graphviz --with-bindings --with-pango --with-app --with-librsvg --with-freetype
+23 haraldf/kf5/kf5-kconfigwidgets
+23 haraldf/kf5/kf5-solid
+23 homebrew/apache/mod_wsgi3
+23 homebrew/boneyard/box2d
+23 homebrew/boneyard/pyqwt
+23 homebrew/games/moon-buggy
+23 homebrew/games/vitetris
+23 homebrew/php/php54-yaml
+23 homebrew/php/php55-solr
+23 homebrew/php/php70-scrypt
+23 homebrew/php/php70-timecop
+23 homebrew/php/php71-pspell
+23 homebrew/science/nglib
+23 homebrew/science/opencv3 --without-numpy
+23 homebrew/science/quast
+23 homebrew/science/vtk --c++11
+23 homebrew/versions/freetds091 --with-unixodbc
+23 jing
+23 josegonzalez/php/php55-pdo-pgsql
+23 josegonzalez/php/php56 --with-pear
+23 josegonzalez/php/php70-mongodb
+23 kim-api-v
+23 l-smash
+23 larsimmisch/avr/avr-binutils
+23 lft
+23 libagg
+23 libvorbis --universal
+23 luajit --devel
+23 mackerelio/mackerel-agent/mkr
+23 magneticio/vamp/vamp
+23 mapbox/cli/mapbox
+23 mksh
+23 mpv --HEAD --with-bundle --with-libdvdread --with-libdvdnav --with-libbluray --with-libaacs --with-vapoursynth
+23 mpv --with-bundle --with-libarchive --with-libcaca --with-libdvdread --with-libdvdnav --with-libbluray --with-libaacs --with-vapoursynth --with-uchardet
+23 mussh
+23 muttils
+23 nghttp2 --with-examples --with-python3
+23 osrf/simulation/gazebo7 --HEAD
+23 pngnq
+23 postgresql --without-perl
+23 pothosware/pothos/pothospython
+23 primesieve
+23 protobuf --with-test
+23 pulledpork
+23 qemu --with-vde --with-sdl
+23 qjson
+23 qt5 --without-webengine
+23 rcmdnk/rcmdnkpac/screenutf8 --utf8
+23 remake
+23 robotastic/hackrf/gr-baz --HEAD
+23 samueljohn/python/numpy --with-openblas
+23 shapelib
+23 skinny
+23 ssdb
+23 staticfloat/juliatranslated/lame
+23 supersonic
+23 szl
+23 takt
+23 tesseract --HEAD
+23 transmission --with-nls
+23 vim --with-override-system-vi --with-client-server --with-python3 --with-lua --with-mzscheme --with-tcl --with-luajit
+23 vim --with-python3 --with-lua --without-python
+23 voms
+23 whatmp3
+23 xfreebird/utils/kcpassword
+23 xsd
+23 xxhash
+23 zzuf
+22 anakros/tsocks/tsocks --HEAD
+22 argon2
+22 caius/prince/prince
+22 cclive
+22 chaiscript
+22 csvprintf
+22 cweb
+22 dspdfviewer
+22 elasticsearch --devel
+22 erlang --without-docs
+22 exempi
+22 fcitx-remote-for-osx
+22 ffmpeg --HEAD --without-qtkit --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-openssl --with-libssh --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-libvidstab --with-x265 --with-libsoxr --with-webp --with-zeromq --with-snappy --with-rubberband --with-zimg --with-openh264 --with-xz --with-libebur128 --with-faac --with-fontconfig --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r --with-libcaca --with-libbluray --with-libbs2b
+22 ffmpeg --with-faac --with-theora --with-libvorbis --with-libvpx
+22 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-x265 --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r
+22 flashrom
+22 freeswitch
+22 gcab
+22 gnuplot --with-cairo --with-aquaterm --with-x11
+22 gnuplot --with-cairo --with-wxmac --with-pdflib-lite --with-x11
+22 gnuplot --with-tex --with-aquaterm --with-pdflib-lite --with-x11
+22 haraldf/kf5/kf5-attica
+22 haraldf/kf5/kf5-kbookmarks
+22 haraldf/kf5/kf5-kcompletion
+22 haraldf/kf5/kf5-kcrash
+22 haraldf/kf5/kf5-kglobalaccel
+22 haraldf/kf5/kf5-kio
+22 haraldf/kf5/kf5-kjobwidgets
+22 haraldf/kf5/kf5-knotifications
+22 haraldf/kf5/kf5-kservice
+22 haraldf/kf5/kf5-ktextwidgets
+22 haraldf/kf5/kf5-kwallet
+22 haraldf/kf5/kf5-kxmlgui
+22 hg-flow
+22 homebrew/emacs/epl
+22 homebrew/emacs/ggtags
+22 homebrew/games/corsixth
+22 homebrew/games/libtcod
+22 homebrew/games/yetris
+22 homebrew/gui/geeqie
+22 homebrew/nginx/fancyindex-nginx-module
+22 homebrew/nginx/websockify-nginx-module
+22 homebrew/php/php55 --with-postgresql --with-apache
+22 homebrew/php/php55-gearman
+22 homebrew/php/php56 --with-postgresql --with-homebrew-curl
+22 homebrew/php/php56-libsodium
+22 homebrew/php/php70 --with-homebrew-apxs --with-homebrew-curl
+22 homebrew/php/php70 --without-fpm
+22 homebrew/php/php70-blitz
+22 homebrew/science/jmol
+22 homebrew/science/ncbi-c++-toolkit
+22 homebrew/science/octave --without-graphicsmagick
+22 homebrew/versions/cmake30
+22 homebrew/versions/ffmpeg22 --universal
+22 homebrew/versions/llvm34
+22 homebrew/versions/open-mpi16
+22 host-monitoring-osx
+22 josegonzalez/php/php54 --with-postgresql --with-debug --with-imap
+22 josegonzalez/php/php54-imagick
+22 josegonzalez/php/php55 --with-gmp --with-debug --with-imap --with-libmysql
+22 josegonzalez/php/php55-geoip
+22 josegonzalez/php/php55-memcache
+22 josegonzalez/php/php55-opcache
+22 josegonzalez/php/php55-phalcon
+22 kyoto-cabinet
+22 lbdb
+22 libgcrypt --universal
+22 libnfs
+22 log4shib
+22 logentries
+22 makeself
+22 maltronic/formula/git-radar
+22 matlab2tikz
+22 mcs07/cheminformatics/inchi
+22 mcs07/cheminformatics/open-babel
+22 montage
+22 nashenas88/gcc_cross_compilers/i386-elf-binutils
+22 nuxeo
+22 nvi
+22 osrf/simulation/simbody --HEAD
+22 postgresql --with-dtrace
+22 protobuf --universal
+22 ps2eps
+22 pygobject3 --without-python --with-python3
+22 rene-dev/sigrok/sigrok-cli --HEAD --with-libserialport
+22 salilab/salilab/ifort-runtime
+22 sanoma/terrible_job/terrible_job
+22 scsh
+22 shrewsoft-vpn-client
+22 shunit2
+22 speech-tools
+22 st
+22 t1utils
+22 totakke/openni2/openni2-freenectdriver
+22 verilator
+22 vim --with-custom-python --with-custom-ruby
+22 watsonbox/cmu-sphinx/cmu-sphinxtrain --HEAD
+22 weechat --with-python
+22 xml-security-c
+22 xml-tooling-c
+21 abcmidi
+21 arpoison
+21 automysqlbackup
+21 avro-cpp
+21 bash-preexec
+21 blackfireio/blackfire/blackfire-php56 --without-homebrew-php
+21 boost --universal --c++11
+21 cless
+21 coin
+21 cosmo0920/mingw_w64/i686-w64-mingw32-binutils
+21 crash
+21 darkhttpd
+21 datetime-fortran
+21 davmail
+21 dholm/sdr/gr-gsm --HEAD
+21 doitlive
+21 echoprint-codegen
+21 elixir-build
+21 ent
+21 fatsort
+21 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-openssl --with-libssh --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-libvidstab --with-x265 --with-libsoxr --with-webp --with-zeromq --with-faac --with-fontconfig --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r --with-libcaca --with-libbluray
+21 fits
+21 flac123
+21 flatcc
+21 frege-repl
+21 gdal --with-complete
+21 genext2fs
+21 git --with-blk-sha1 --with-brewed-openssl --with-brewed-curl
+21 goocanvas
+21 haraldf/kf5/kf5-phonon
+21 hfsutils
+21 highlighting-kate
+21 homebrew/apache/httpd22 --with-privileged-ports
+21 homebrew/boneyard/vpnc
+21 homebrew/dupes/diffstat
+21 homebrew/emacs/pkg-info
+21 homebrew/nginx/auth-ldap-nginx-module
+21 homebrew/nginx/nchan-nginx-module
+21 homebrew/nginx/redis2-nginx-module
+21 homebrew/php/php55 --with-apache --without-fpm
+21 homebrew/php/php55 --with-imap --with-mssql --with-pdo-oci
+21 homebrew/php/php56 --with-homebrew-apxs --with-homebrew-curl
+21 homebrew/php/php70 --with-postgresql --with-pear
+21 homebrew/php/php70-lz4
+21 homebrew/python/pysvn
+21 homebrew/science/alembic
+21 homebrew/science/alpscore
+21 homebrew/science/clonehd
+21 homebrew/science/dssp
+21 homebrew/science/elph
+21 homebrew/science/hdf5 --with-fortran2003 --with-fortran
+21 homebrew/science/mrbayes
+21 homebrew/science/nip2
+21 homebrew/science/opencv3 --with-contrib --with-examples --with-tbb --with-python3
+21 homebrew/science/opencv3 --with-tbb --c++11 --with-python3
+21 homebrew/science/pcb
+21 homebrew/science/sextractor
+21 homebrew/science/vips --with-openslide --with-imagemagick --with-openexr --with-cfitsio --with-webp
+21 homebrew/tex/lilypond
+21 homebrew/versions/gst-plugins-bad010
+21 homebrew/x11/freerdp --devel
+21 id3ed
+21 ilpincy/argos3/argos3
+21 ino
+21 ios-class-guard
+21 jless
+21 josegonzalez/php/php56 --with-debug --with-homebrew-curl --with-homebrew-libxslt --with-imap --without-apache
+21 josegonzalez/php/phplint
+21 jslint4java
+21 libfixbuf
+21 libnice
+21 libuvc
+21 libvisio
+21 macmade/tap/xcode-coveralls
+21 macvim --with-custom-python
+21 mftrace
+21 minizinc
+21 mkalkbrenner/php/php56 --with-homebrew-apxs --with-homebrew-curl --with-imap
+21 msitools
+21 nginx --with-http2 --with-gunzip
+21 nut
+21 open-mpi --with-cxx-bindings
+21 platypus
+21 polyml
+21 postgresql --without-perl --without-tcl
+21 pothosware/pothos/soapyosmo
+21 pyenv-pip-migrate
+21 python3 --with-quicktest
+21 python3 --with-sphinx-doc
+21 qt --with-dbus
+21 rancid
+21 rest-shell
+21 ruby-install --HEAD
+21 sdl --universal
+21 shadowsocks-libev --HEAD
+21 stash-cli
+21 swig --HEAD
+21 synfig
+21 team-sonique/dev-setup/sonique-antigen
+21 vim --HEAD --without-python
+21 vim --with-override-system-vi --with-client-server --with-python3 --with-lua
+21 weechat --with-perl --with-ruby --with-curl --with-aspell --with-lua --with-python
+21 wtf
+20 ant --with-ivy --with-bcel
+20 apcupsd
+20 apib
+20 athena-oss/athena/athena
+20 cksfv
+20 clutter-gst
+20 darkstat
+20 duggan/protobuf3/protobuf3 --HEAD --with-python --with-go
+20 fastjar
+20 giginet/utils/simrecorder
+20 gitslave
+20 go-delve/delve/delve --HEAD
+20 gowsdl
+20 gptsync
+20 grpc
+20 h2o --with-libuv --with-libressl --with-wslay
+20 hercules
+20 homebrew-kangoextensions
+20 homebrew/apache/mod_suexec
+20 homebrew/emacs/flycheck
+20 homebrew/games/libspectrum
+20 homebrew/gui/transmission-remote-gtk
+20 homebrew/nginx/geoip2-nginx-module
+20 homebrew/nginx/xsltproc-nginx-module
+20 homebrew/php/php53 --without-apache
+20 homebrew/php/php54 --with-imap
+20 homebrew/php/php54-mongodb
+20 homebrew/php/php55-yac
+20 homebrew/php/php56 --with-pdo-oci
+20 homebrew/php/php56 --with-phpdbg
+20 homebrew/php/php56-yar
+20 homebrew/php/php70 --with-apache --with-homebrew-apxs
+20 homebrew/php/php70 --with-apache --with-imap
+20 homebrew/php/php70-rdkafka
+20 homebrew/php/php71 --with-phpdbg
+20 homebrew/science/crfsuite
+20 homebrew/science/ensembl-tools
+20 homebrew/science/genometools
+20 homebrew/science/mash
+20 homebrew/science/opencv3 --with-contrib --with-cuda --with-tbb --with-ffmpeg
+20 homebrew/science/opencv3 --with-contrib --without-opencl --without-python --without-test --without-eigen --without-openexr
+20 homebrew/science/opencv3 --with-opengl --with-qt5 --with-tbb --c++11
+20 homebrew/science/orocos-kdl
+20 homebrew/science/prank
+20 homebrew/versions/antlr3
+20 homebrew/x11/yarp --HEAD
+20 icon
+20 jetty-runner
+20 josegonzalez/php/php55 --with-debug --with-imap
+20 keithbsmiley/formulae/brew-cask --HEAD
+20 libdvbpsi
+20 libfixposix
+20 libgxps
+20 libswiften
+20 libu2f-server
+20 makepkg
+20 mistydemeo/xfig/transfig
+20 mkclean
+20 monochromegane/pt/pt
+20 mpv --HEAD --with-bundle --with-libarchive --with-libcaca --with-libdvdread --with-libdvdnav --with-libbluray --with-libaacs --with-vapoursynth --with-uchardet
+20 mrtazz/oss/leoric
+20 nashenas88/gcc_cross_compilers/i386-elf-gcc
+20 nikolausdemmel/simulation/ogre1.9
+20 node --without-completion
+20 normalize
+20 ocaml --with-x11 --with-flambda
+20 omniboard
+20 osm2pgrouting
+20 osvr/osvr/osvr-core --HEAD
+20 pam-u2f
+20 pdal
+20 postgis --with-gui
+20 qt5 --with-qtwebkit
+20 railwaycat/emacsmacport/emacs-mac --with-xml2 --with-official-icon --with-gnutls --with-imagemagick
+20 redsocks
+20 rene-dev/sigrok/libsigrok
+20 rsense
+20 sbtenv
+20 sipsak
+20 socialfinance/sofi/docker-forward
+20 star
+20 staticfloat/juliatranslated/libtasn1
+20 totakke/openni/sensor-kinect
+20 unoconv --HEAD
+20 vcs
+20 vim --HEAD --with-lua --with-luajit
+20 vim --HEAD --with-python3
+20 vim --with-custom-python --with-custom-ruby --with-custom-perl
+20 vim --with-override-system-vi --with-client-server --with-lua --with-luajit
+20 vim --without-python --without-ruby
+20 weechat --with-perl
+20 xmlsh
+19 amiaopensource/amiaos/ltopers
+19 avidemux
+19 aws-apigateway-importer
+19 bibtex2html
+19 cfengine
+19 chibi-scheme
+19 cielavenir/ciel/unace
+19 codekitchen/dinghy/dinghy --HEAD
+19 cosmo0920/mingw_w64/x86-64-w64-mingw32-gcc
+19 cucumber-cpp
+19 danielbayley/ery/symlinks
+19 dasht
+19 dex
+19 duff
+19 dvdrtools
+19 emacs --with-cocoa --with-ctags --with-gnutls --with-imagemagick
+19 emacs --with-cocoa --with-gnutls --with-librsvg --with-imagemagick
+19 enet
+19 ffmpeg --with-ffplay --with-freetype
+19 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-openssl --with-libssh --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-libvidstab --with-x265 --with-libsoxr --with-webp --with-faac --with-fontconfig --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r --with-libcaca --with-libbluray
+19 ffmpeg --with-rtmpdump --with-libass --with-opencore-amr --with-openjpeg --with-openssl --with-libssh --with-schroedinger --with-ffplay --with-tools --with-fdk-aac --with-libvidstab --with-x265 --with-libsoxr --with-webp --with-zeromq --with-snappy --with-rubberband --with-zimg --with-openh264 --with-faac --with-freetype --with-theora --with-libvorbis --with-libvpx --with-speex --with-opus --with-frei0r --with-libcaca --with-libbluray --with-libbs2b
+19 fontforge --with-giflib --with-libspiro
+19 fstar
+19 fullscreen/tap/aws-rotate-key
+19 gabedit
+19 git --with-blk-sha1 --with-pcre --with-gettext
+19 git-remote-hg
+19 gitlab-ci-multi-runner --without-docker
+19 gnuplot --with-cairo --with-tex --with-aquaterm --with-x11
+19 godber/godber/gnuradio-osmosdr
+19 graphviz --with-bindings --with-app --with-librsvg --with-freetype
+19 guile --devel
+19 gvp
+19 haraldf/kf5/kf5-knewstuff
+19 homebrew/boneyard/signing-party
+19 homebrew/core/linkerd
+19 homebrew/emacs/irony-mode
+19 homebrew/emacs/yaml-mode
+19 homebrew/games/cataclysm --with-tiles
+19 homebrew/games/nsnake
+19 homebrew/gui/easy-tag
+19 homebrew/nginx/nginx-full --with-auth-req
+19 homebrew/nginx/nginx-full --with-realip
+19 homebrew/php/n98-magerun2
+19 homebrew/php/php53 --with-gmp --with-debug --with-imap
+19 homebrew/php/php53-apc
+19 homebrew/php/php56 --with-thread-safety --without-mysql
+19 homebrew/php/php70 --with-homebrew-curl --with-homebrew-libxslt
+19 homebrew/php/php70 --with-homebrew-curl --with-homebrew-libxslt --with-homebrew-libxml2
+19 homebrew/php/php70 --with-imap --with-pear
+19 homebrew/php/php70-igbinary
+19 homebrew/php/php70-stats
+19 homebrew/science/boost-compute
+19 homebrew/science/dynare
+19 homebrew/science/dynare --without-check
+19 homebrew/science/harvest-tools
+19 homebrew/science/madlib
+19 homebrew/science/opencv --with-qt --with-ffmpeg
+19 homebrew/science/opencv3 --with-contrib --c++11
+19 homebrew/science/opencv3 --with-contrib --with-quicktime --with-ffmpeg
+19 homebrew/science/opencv3 --with-contrib --with-tbb --with-ffmpeg --with-python3
+19 homebrew/science/opencv3 --with-java --with-python3
+19 homebrew/science/pcl --HEAD --without-apps
+19 homebrew/science/repeatscout
+19 homebrew/science/slicot --with-default-integer-8
+19 homebrew/versions/percona-server56 --with-local-infile
+19 hybris/builder/builder
+19 hyperscan
+19 ios-deploy --HEAD
+19 jasonmp85/iwyu/iwyu
+19 josegonzalez/php/php54 --with-debug --with-imap --without-apache
+19 josegonzalez/php/php70 --with-thread-safety
+19 keckcaves/keckcaves/vrui
+19 keith/formulae/brew-cask --HEAD
+19 lcdproc
+19 lepton
+19 libcdio
+19 libkml
+19 libtommath
+19 luajit --with-52compat
+19 metashell
+19 mfterm
+19 mkvdts2ac3
+19 moncho/dry/dry
+19 mpv --HEAD --with-bundle --with-libarchive --with-libcaca --with-libdvdread --with-libdvdnav --with-libbluray
+19 nailgun
+19 omniorb
+19 pcre++
+19 phase2/devtools/devtools
+19 pothosware/pothos/pothosaudio
+19 python --HEAD
+19 python --with-tcl-tk --with-sphinx-doc --with-berkeley-db4
+19 railwaycat/emacsmacport/emacs-mac --with-emacs-icons-project-EmacsIcon9 --with-gnutls
+19 railwaycat/emacsmacport/emacs-mac --with-modern-icon --with-imagemagick
+19 rds-command-line-tools
+19 rhash
+19 robotastic/hackrf/gqrx --HEAD
+19 ruby --with-gdbm --with-gmp --with-libffi
+19 rust --HEAD --with-llvm
+19 scala --with-src
+19 simple-amqp-client
+19 softhsm
+19 sox --with-opencore-amr --with-opusfile --with-libvorbis --with-flac --with-libsndfile --with-libao --with-lame
+19 spotify/public/gcs-avro-tools
+19 sqsh
+19 staticfloat/juliatranslated/librdkafka
+19 staticfloat/juliatranslated/lzlib
+19 swfmill
+19 swiftlint --HEAD
+19 tcpstat
+19 unshield
+19 uwsgi --with-python
+19 wget --with-pcre
+19 xapian --with-python
+18 apollo
+18 bagit
+18 bigdata
+18 coin-or-tools/coinor/clp
+18 couchdb-lucene
+18 crossroadlabs/tap/swift-express
+18 dholm/sdr/gr-fosphor --HEAD
+18 distcc --HEAD
+18 drone/drone/drone --devel
+18 emacs --with-gnutls --with-imagemagick
+18 epic5
+18 eriknyh/cim/cim
+18 fmt
+18 freetds --with-msdblib --with-unixodbc
+18 frege
+18 ganglia
+18 gcc --without-fortran --without-multilib
+18 git-svn-abandon
+18 global --with-pygments
+18 gnu-barcode
+18 gnuplot --with-cairo --with-test --with-wxmac --with-tex --with-aquaterm --with-pdflib-lite --with-qt5 --with-x11
+18 gnuplot --with-cairo --with-tex --with-aquaterm --with-pdflib-lite --with-x11
+18 gnuplot --with-tex --with-pdflib-lite --with-qt5 --with-x11
+18 graphviz --with-librsvg
+18 hachoir-metadata
+18 haraldf/kf5/kf5-kinit
+18 haraldf/kf5/kf5-kparts
+18 hello@2
+18 homebrew/boneyard/kismet
+18 homebrew/completions/cap-completion
+18 homebrew/dupes/zlib --universal
+18 homebrew/emacs/web-mode
+18 homebrew/gui/pitivi
+18 homebrew/php/php54-amqp
+18 homebrew/php/php54-augmentedtypes
+18 homebrew/php/php55 --with-apache --with-homebrew-curl
+18 homebrew/php/php56 --with-apache --with-imap
+18 homebrew/php/php56 --with-homebrew-curl --with-homebrew-libxslt --with-imap --without-apache
+18 homebrew/php/php56 --with-homebrew-curl --with-imap
+18 homebrew/php/php56 --without-mysql
+18 homebrew/php/php70 --with-pear --without-fpm
+18 homebrew/php/php70-solr
+18 homebrew/php/php71-snmp
+18 homebrew/science/cytoscape
+18 homebrew/science/hdf5 --with-mpi --c++11
+18 homebrew/science/healpix
+18 homebrew/science/lammps --HEAD
+18 homebrew/science/mpb
+18 homebrew/science/mumps --without-mpi --with-openblas
+18 homebrew/science/opencv --with-java --with-ffmpeg
+18 homebrew/science/opencv --without-test
+18 homebrew/science/opencv3 --with-contrib --with-tbb --c++11
+18 homebrew/science/opencv3 --with-contrib --without-numpy --with-python3
+18 homebrew/science/opencv3 --with-cuda
+18 homebrew/science/opencv3 --with-quicktime
+18 homebrew/science/packmol
+18 homebrew/science/phyml
+18 homebrew/science/prokka
+18 homebrew/versions/gcc48 --without-multilib
+18 homebrew/versions/llvm39
+18 homebrew/versions/mapnik2
+18 homebrew/versions/node5 --without-npm
+18 httptunnel
+18 i2util
+18 imagemagick --with-fontconfig --with-webp

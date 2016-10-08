@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+
+import argparse
+
+import bs4
+
+def gen_list(soup, include_hits=False):
+    actions = [td.text.strip() for td in soup.select('td.ID-dimension-data-0')]
+    hits = [td.text.strip().split('(')[0].replace(',', '') for td in soup.select('td.ID-metric-data-0')]
+    return zip(hits, actions) if include_hits else zip(actions)
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--include-hits', action='store_true')
+    parser.add_argument('file', help='file containing the HTML table from Google Analytics')
+    args = parser.parse_args()
+    with open(args.file) as fp:
+        soup = bs4.BeautifulSoup(fp.read(), 'lxml')
+        data_list = gen_list(soup, include_hits=args.include_hits)
+        print('\n'.join([' '.join(entry) for entry in data_list]))
+
+if __name__ == '__main__':
+    main()

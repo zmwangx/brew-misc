@@ -1,0 +1,75 @@
+#!/usr/bin/env zsh
+
+here=$0:A:h
+
+print_error () print -R $'\e[31m'"Error: $*"$'\e[0m' >&2
+
+blacklist=
+print_number=0
+while [[ $1 == -* ]]; do
+    case $1 in
+        -h|--help)
+            cat >&2 <<EOF
+Usage: $0:t [options]
+
+Read formulae from stdin (possibly with trailing options) one per line, and
+print the subset that stills need to be bottled for Sierra on stdout, one per
+line, with order retained. Non-core formulae are filtered out.
+
+Options:
+    -b, --blacklist BLACKLIST
+        Read blacklist from the file BLACKLIST. A formula won't be printed
+        regardless of bottle status if any of its default runtime dependencies
+        is on the blacklist. Note that using a blacklist slows down this script
+        considerably.
+    -h, --help
+        Print this help and exit.
+    -n, --print-number
+        Prepend each output line with corresponding input line number.
+EOF
+            exit 1
+            ;;
+        -b|--blacklist)
+            shift
+            blacklist=$1
+            ;;
+        -n|--print-number)
+            print_number=1
+            ;;
+        --)
+            shift
+            break
+            ;;
+        *)
+            print_error "Unknown option ${(q-)1}."
+            exit 1
+            ;;
+    esac
+    shift
+done
+
+core_formula_dir="$(brew --repository homebrew/core)/Formula"
+
+# need_bottle <formula_identifier>
+need_bottle () {
+    formula=$1
+    [[ $formula == */* ]] && return 1 # Non-core
+    formula_file=$core_formula_dir/$formula.rb
+    ! grep -q 'bottle :unneeded' $formula_file \
+        && ! grep -q 'sha256 ".*" => :sierra' $formula_file \
+        && ( [[ -z $blacklist ]] || ! grep -q $formula $blacklist ) \
+        && [[ -z $blacklist || -z "$(comm -12 =(brew deps $formula) $blacklist)" ]]
+}
+
+num=0
+typeset -A seen # assoc array to keep track of seen formulae (for deduplication)
+while read -r line; do
+    (( num++ ))
+    formula=${line%% *}
+    (( seen[$formula] )) && continue
+    seen[$formula]=1
+    need_bottle $formula && {
+        (( print_number )) && printf '%d\t' $num
+        print $formula
+    }
+done
