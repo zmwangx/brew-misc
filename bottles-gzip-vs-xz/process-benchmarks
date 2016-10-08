@@ -1,0 +1,40 @@
+#!/bin/zsh
+IFS=$'\t'
+i=1
+printf '#1\t#2\t#3\t#4\t#5\t#6\t#7\t#8\t#9\t#10\t#11\t#12\t#13\t#14\n'
+while read line; do
+    print $line
+    # We read into a line buffer first then read again from the line buffer to
+    # prevent an unnecessary empty element at the end of each array (due to
+    # last failing read).
+    read <<<$line \
+         'formula[i]' 'targz_size[i]' 'tarxz_size[i]' 'size_percentage[i]' \
+         'targz_tar_usersys[i]' 'targz_tar_real[i]' \
+         'tarxz_tar_usersys[i]' 'tarxz_tar_real[i]' \
+         'tar_time_percentage[i]' \
+         'targz_untar_usersys[i]' 'targz_untar_real[i]' \
+         'tarxz_untar_usersys[i]' 'tarxz_untar_real[i]' \
+         'untar_time_percentage[i]'
+    (( i++ ))
+done
+(( targz_size_tot = ${(j:+:)targz_size} ))
+(( tarxz_size_tot = ${(j:+:)tarxz_size} ))
+(( targz_tar_usersys_tot = ${(j:+:)targz_tar_usersys} ))
+(( targz_tar_real_tot = ${(j:+:)targz_tar_real} ))
+(( tarxz_tar_usersys_tot = ${(j:+:)tarxz_tar_usersys} ))
+(( tarxz_tar_real_tot = ${(j:+:)tarxz_tar_real} ))
+(( targz_untar_usersys_tot = ${(j:+:)targz_untar_usersys} ))
+(( targz_untar_real_tot = ${(j:+:)targz_untar_real} ))
+(( tarxz_untar_usersys_tot = ${(j:+:)tarxz_untar_usersys} ))
+(( tarxz_untar_real_tot = ${(j:+:)tarxz_untar_real} ))
+size_percentage=$(( tarxz_size_tot * 100.0 / targz_size_tot ))
+tar_time_percentage=$(( tarxz_tar_usersys_tot * 100.0 / targz_tar_usersys_tot ))
+untar_time_percentage=$(( tarxz_untar_usersys_tot * 100.0 / targz_untar_usersys_tot ))
+printf '%s\t%d\t%d\t%.1f%%\t%.3f\t%.3f\t%.3f\t%.3f\t%.1f%%\t%.3f\t%.3f\t%.3f\t%.3f\t%.1f%%\n' \
+       total $targz_size_tot $tarxz_size_tot $size_percentage \
+       $targz_tar_usersys_tot $targz_tar_real_tot \
+       $tarxz_tar_usersys_tot $tarxz_tar_real_tot \
+       $tar_time_percentage \
+       $targz_untar_usersys_tot $targz_untar_real_tot \
+       $tarxz_untar_usersys_tot $tarxz_untar_real_tot \
+       $untar_time_percentage
