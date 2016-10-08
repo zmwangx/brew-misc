@@ -4,11 +4,11 @@
  4 - size percentage (.tar.xz / .tar.gz)
  5 - .tar.gz tar user+sys
  6 - .tar.gz tar real
- 7 - .tar.gz tar user+sys
- 8 - .tar.gz tar real
+ 7 - .tar.xz tar user+sys
+ 8 - .tar.xz tar real
  9 - tar time percentage (user+sys, .tar.xz / .tar.gz)
 10 - .tar.gz untar user+sys
 11 - .tar.gz untar real
-12 - .tar.gz untar user+sys
-13 - .tar.gz untar real
+12 - .tar.xz untar user+sys
+13 - .tar.xz untar real
 14 - untar time percentage (user+sys, .tar.xz / .tar.gz)
