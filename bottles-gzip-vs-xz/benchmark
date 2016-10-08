@@ -3,6 +3,10 @@
 print_error () print -R $'\e[31m'"Error: $*"$'\e[0m' >&2
 print_progress () print -R $'\e[32m'"$*"$'\e[0m' >&2
 
+mktemp=/usr/bin/mktemp
+sed=/usr/bin/sed
+tar=/usr/bin/tar
+
 setopt errexit
 formulae=(
     openssl pkg-config sqlite libpng node readline freetype glib git python
@@ -11,7 +15,7 @@ formulae=(
 )
 # Edit this variable to use a different directory or volume
 basetmpdir=/tmp
-tmpdir=$(/usr/bin/mktemp -d $basetmpdir/brew-bottle-benchmark-XXXXXXX)
+tmpdir=$($mktemp -d $basetmpdir/brew-bottle-benchmark-XXXXXXX)
 trap 'rm -rf $tmpdir' EXIT INT TERM
 
 # Sum the given arguments, which must be of the form [[hh:]mm:]ss.ttt as
@@ -75,10 +79,10 @@ benchmark_tar () {
     typeset -a user sys real
     for count in {1..$times}; do
         printf 'Run %d/%d...\r' $count $times >&2
-        dest=$(/usr/bin/mktemp $tmpdir/XXXXXXX)
+        dest=$($mktemp $tmpdir/XXXXXXX)
         (
             TIMEFMT='%*U %*S %*E'
-            time (/usr/bin/tar -C $src:h -c${compression_flag}f $dest $src:t 2>/dev/null)
+            time ($tar -C $src:h -c${compression_flag}f $dest $src:t 2>/dev/null)
         ) |& read "user[count]" "sys[count]" "real[count]"
         rm -f $dest
     done
@@ -112,10 +116,10 @@ benchmark_untar () {
     typeset -a user sys real
     for count in {1..$times}; do
         printf 'Run %d/%d...\r' $count $times >&2
-        dest=$(/usr/bin/mktemp -d $tmpdir/XXXXXXX)
+        dest=$($mktemp -d $tmpdir/XXXXXXX)
         (
             TIMEFMT='%*U %*S %*E'
-            time (/usr/bin/tar -C $dest -xf $archive 2>/dev/null)
+            time ($tar -C $dest -xf $archive 2>/dev/null)
         ) |& read "user[count]" "sys[count]" "real[count]"
         rm -rf $dest
     done
@@ -129,19 +133,19 @@ benchmark_untar () {
 
 for formula in $formulae; do
     print_progress "$formula: fetching bottle..."
-    bottle=$(brew fetch --verbose $formula | /usr/bin/sed -nE 's/^(Downloaded to|Already downloaded): (.*)/\2/p')
+    bottle=$(brew fetch --verbose $formula | $sed -nE 's/^(Downloaded to|Already downloaded): (.*)/\2/p')
 
     print_progress "$formula: decompressing bottle..."
-    tar -C $tmpdir -xf $bottle
+    $tar -C $tmpdir -xf $bottle
     unarchived_dir=$tmpdir/$formula
     targz=$tmpdir/$formula.tar.gz
     tarxz=$tmpdir/$formula.tar.xz
 
     print_progress "$formula: creating .tar.gz and .tar.xz bottles..."
-    tar -C $tmpdir -czf $targz $formula
+    $tar -C $tmpdir -czf $targz $formula
     targz_size=$(wc -c <$targz)
     printf '.tar.gz size: %d bytes\n' $targz_size >&2
-    tar -C $tmpdir -cJf $tarxz $formula
+    $tar -C $tmpdir -cJf $tarxz $formula
     tarxz_size=$(wc -c <$tarxz)
     printf '.tar.xz size: %d bytes\n' $tarxz_size >&2
     size_percentage=$(( tarxz_size * 100.0 / targz_size ))
