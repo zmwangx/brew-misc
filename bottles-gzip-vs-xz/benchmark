@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/bin/zsh
 
 print_error () print -R $'\e[31m'"Error: $*"$'\e[0m' >&2
 print_progress () print -R $'\e[32m'"$*"$'\e[0m' >&2
@@ -13,6 +13,38 @@ formulae=(
 basetmpdir=/tmp
 tmpdir=$(/usr/bin/mktemp -d $basetmpdir/brew-bottle-benchmark-XXXXXXX)
 trap 'rm -rf $tmpdir' EXIT INT TERM
+
+# Sum the given arguments, which must be of the form [[hh:]mm:]ss.ttt as
+# printed by the time builtin (%*U, %*S or %*E).
+sum_time () {
+    typeset -F sum
+    for t; do
+        [[ $t == ((<->:|)<->:|)<->.<-> ]] || {
+            print_error "$t is not a valid time"
+            exit 1
+        }
+        parts=( ${(ws/:/)t} )
+        case $#parts in
+            1)
+                # ss.ttt
+                (( sum += parts[1] )) || :
+                ;;
+            2)
+                # mm:ss.ttt
+                (( sum += parts[1] * 60.0 + parts[2] )) || :
+                ;;
+            3)
+                # mm:ss:ttt
+                (( sum += parts[1] * 3600.0 + parts[2] * 60.0 + parts[3] )) || :
+                ;;
+            *)
+                print_error "wrong number of colon-delimited parts in time $t"
+                exit 1
+                ;;
+        esac
+    done
+    printf '%.3f\n' $sum
+}
 
 # Usage:
 #     benchmark_tar <src> <method> <times>
@@ -39,19 +71,23 @@ benchmark_tar () {
         print_error "$2 is not a positive integer"
         exit 1
     }
-    (
-        TIMEFMT='%U %S %E'
-        time (
-            for count in {1..$times}; do
-                printf 'Run %d/%d...\r' $count $times >/dev/tty
-                dest=$(/usr/bin/mktemp $tmpdir/XXXXXXX)
-                /usr/bin/tar -C $src:h -c${compression_flag}f $dest $src:t 2>/dev/null
-                rm -f $dest
-            done
-            print >/dev/tty
-        )
-    ) |& sed 's/s//g' | read user sys real
-    printf '%.3f %.3f\n' $(( (user + sys) / times )) $(( real / times ))
+
+    typeset -a user sys real
+    for count in {1..$times}; do
+        printf 'Run %d/%d...\r' $count $times >&2
+        dest=$(/usr/bin/mktemp $tmpdir/XXXXXXX)
+        (
+            TIMEFMT='%*U %*S %*E'
+            time (/usr/bin/tar -C $src:h -c${compression_flag}f $dest $src:t 2>/dev/null)
+        ) |& read "user[count]" "sys[count]" "real[count]"
+        rm -f $dest
+    done
+    print >&2
+
+    usertot=$(sum_time $user)
+    systot=$(sum_time $sys)
+    realtot=$(sum_time $real)
+    printf '%.3f %.3f\n' $(( (usertot + systot) / times )) $(( realtot / times ))
 }
 
 # Usage:
@@ -72,20 +108,23 @@ benchmark_untar () {
         print_error "$2 is not a positive integer"
         exit 1
     }
-    (
-        TIMEFMT='%U %S %E'
-        time (
-            for count in {1..$times}; do
-                printf 'Run %d/%d...\r' $count $times >/dev/tty
-                dest=$(/usr/bin/mktemp -d $tmpdir/XXXXXXX)
-                /usr/bin/tar -C $dest -xf $archive 2>/dev/null
-            done
-            print >/dev/tty
-        )
-    ) |& sed 's/s//g' | read user sys real
-    # Remove all subdirectories of $tmpdir to save space
-    rm -rf $tmpdir/*(/)
-    printf '%.3f %.3f\n' $(( (user + sys) / times )) $(( real / times ))
+
+    typeset -a user sys real
+    for count in {1..$times}; do
+        printf 'Run %d/%d...\r' $count $times >&2
+        dest=$(/usr/bin/mktemp -d $tmpdir/XXXXXXX)
+        (
+            TIMEFMT='%*U %*S %*E'
+            time (/usr/bin/tar -C $dest -xf $archive 2>/dev/null)
+        ) |& read "user[count]" "sys[count]" "real[count]"
+        rm -rf $dest
+    done
+    print >&2
+
+    usertot=$(sum_time $user)
+    systot=$(sum_time $sys)
+    realtot=$(sum_time $real)
+    printf '%.3f %.3f\n' $(( (usertot + systot) / times )) $(( realtot / times ))
 }
 
 for formula in $formulae; do
@@ -116,7 +155,12 @@ for formula in $formulae; do
     benchmark_tar $unarchived_dir xz 5 | read tarxz_tar_usersys tarxz_tar_real
     printf 'average time: %.3f seconds\n' $tarxz_tar_usersys >&2
 
-    tar_time_percentage=$(( tarxz_tar_usersys * 100.0 / targz_tar_usersys ))
+    if (( targz_tar_usersys )); then
+        tar_time_percentage=$(( tarxz_tar_usersys * 100.0 / targz_tar_usersys )) || :
+    else
+        # division by zero
+        tar_time_percentage=0.0
+    fi
 
     rm -rf $unarchived_dir
 
@@ -128,7 +172,12 @@ for formula in $formulae; do
     benchmark_untar $tarxz 30 | read tarxz_untar_usersys tarxz_untar_real
     printf 'average time: %.3f seconds\n' $tarxz_untar_usersys >&2
 
-    untar_time_percentage=$(( tarxz_untar_usersys * 100.0 / targz_untar_usersys ))
+    if (( targz_untar_usersys )); then
+        untar_time_percentage=$(( tarxz_untar_usersys * 100.0 / targz_untar_usersys ))
+    else
+        # division by zero
+        untar_time_percentage=0.0
+    fi
 
     print_progress "$formula: summary:"
     printf '%s\n' >&2 \
