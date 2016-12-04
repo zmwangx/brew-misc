@@ -1,0 +1,21 @@
+#!/usr/bin/env zsh
+
+setopt errexit
+
+print_error () print -R $'\e[31m'"Error: $*"$'\e[0m' >&2
+
+sha256sum () { openssl dgst -sha256 -binary $1 | xxd -p | tr -d '\n' }
+
+download_dir=${0:A:h}/patches
+mkdir -p $download_dir
+cd $download_dir
+while read url sha256; do
+    file=$sha256.diff
+    wget -q -O $file -c -T 10 $url || {
+        print_error "Failed to download $url (expected $sha256)."
+        continue
+    }
+    real_sha256="$(sha256sum $file)"
+    [[ $sha256 == $real_sha256 ]] || \
+        print_error "SHA-256 mismatch for $url (expected $sha256, got $real_sha256)"
+done

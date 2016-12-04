@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+find "$(brew --repo homebrew/core)/Formula" -name '*.rb' -print0 | \
+    xargs -0 pcregrep -hM -o1 -o2 --om-separator=' ' \
+          'patch .*do(?: *#.*)?\n(?: *#.*\n)* *url "(.*)"(?: *#.*)?\n *sha256 "(.*)"'
